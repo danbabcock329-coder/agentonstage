@@ -1,0 +1,6 @@
+body{font-family:system-ui,sans-serif;max-width:960px;margin:0 auto;padding:1rem;background:#0b0d12;color:#e7e9ee}
+a{color:#7cc4ff}.card{border:1px solid #2a2f3a;border-radius:10px;padding:1rem;margin:.75rem 0;background:#121621}
+input,button,select{padding:.5rem;border-radius:6px;border:1px solid #2a2f3a;margin:.25rem}button{cursor:pointer}
+.tag{display:inline-block;font-size:.8rem;padding:.1rem .5rem;border:1px solid #2a2f3a;border-radius:999px;margin-right:.3rem}
+nav a{margin-right:1rem}.active{background:#7cc4ff;color:#000}
+.label{border-color:#f5a524;color:#f5a524}.notice{border-left:3px solid #f5a524;padding:.5rem .75rem;background:#1d1a12}
