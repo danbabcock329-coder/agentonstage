@@ -63,5 +63,23 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     };
   });
-  return [...staticEntries, ...useCases];
+  const newest = useCases.reduce<Date | undefined>((max, entry) => {
+    const stamp = entry.lastModified;
+    if (!(stamp instanceof Date)) return max;
+    if (!max || stamp > max) return stamp;
+    return max;
+  }, undefined);
+  const generated: MetadataRoute.Sitemap = [
+    { file: "app/llms.txt/route.ts", path: "/llms.txt", priority: 0.3 },
+    { file: "app/feed.json/route.ts", path: "/feed.json", priority: 0.5 },
+  ].map((page) => {
+    const lastModified = newest ?? modified(dates, page.file);
+    return {
+      url: `${SITE_URL}${page.path}`,
+      ...(lastModified ? { lastModified } : {}),
+      changeFrequency: "weekly" as const,
+      priority: page.priority,
+    };
+  });
+  return [...staticEntries, ...generated, ...useCases];
 }

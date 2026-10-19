@@ -1,12 +1,12 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import { getAll, getOne, toHtml, steps, faqs, SITE_URL } from "@/lib/content";
+import { getAll, getOne, toHtml, steps, faqs, SITE_URL, FEED_PATH } from "@/lib/content";
 export const dynamicParams=false;
 export function generateStaticParams(){ return getAll().map(u=>({slug:u.slug})); }
 export async function generateMetadata({params}:{params:Promise<{slug:string}>}):Promise<Metadata>{
   const u=getOne((await params).slug); if(!u) return {};
   const path=`/use-cases/${u.slug}`;
-  return {title:u.title,description:u.summary,keywords:[u.category,...u.tools],alternates:{canonical:path},
+  return {title:u.title,description:u.summary,keywords:[u.category,...u.tools],alternates:{canonical:path,types:{"application/feed+json":FEED_PATH}},
     openGraph:{type:"article",url:path,title:u.title,description:u.summary,siteName:"AgentOnStage"},
     twitter:{card:"summary",title:u.title,description:u.summary}};
 }
