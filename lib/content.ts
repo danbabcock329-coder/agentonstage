@@ -5,6 +5,7 @@ import { marked } from "marked";
 
 export const CATEGORIES = ["Show Control","LED/Video","Audio","Lighting","TouchDesigner","Production Ops"] as const;
 export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://agentonstage.com";
+export const FEED_PATH = "/feed.json";
 export type UseCase = { title:string; slug:string; category:string; tools:string[]; difficulty:string; labels?:string[]; source_url:string; summary:string; body:string };
 const DIR = path.join(process.cwd(),"content/use-cases");
 
