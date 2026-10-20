@@ -21,8 +21,10 @@ export default async function Page({params}:{params:Promise<{slug:string}>}){
     <script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(ld)}}/>
     <p><a href="/">← All use cases</a></p><h1>{u.title}</h1>
     {(u.labels||[]).length>0&&<p className="notice">{u.labels!.includes("Commercial product")&&"This is a commercial product. AgentOnStage isn't paid for this listing. "}{u.labels!.includes("Experimental")&&"This tool is experimental or a prototype. Don't use it on a live show without testing."}</p>}
+    {u.tested_on_rig&&<p className="notice tested"><span className="tag tested-badge">Tested on a real rig</span> Tested {u.tested_on_rig} on {u.rig}. <a href="/tested">All rig tests</a></p>}
     <p>{(u.labels||[]).map(l=><span className="tag label" key={l}>{l}</span>)}<span className="tag">{u.category}</span><span className="tag">{u.difficulty}</span>{u.tools.map(t=><span className="tag" key={t}>{t}</span>)}</p>
     <div dangerouslySetInnerHTML={{__html:toHtml(u.body)}}/>
+    {(u.rig_photos||[]).length>0&&<section><h2>Photos from the rig</h2><div className="gallery">{u.rig_photos!.map(ph=><figure key={ph.src}><a href={ph.src}><img src={ph.src} alt={ph.alt} loading="lazy"/></a>{ph.caption&&<figcaption>{ph.caption}</figcaption>}</figure>)}</div></section>}
     <p>Original source: <a href={u.source_url} rel="nofollow noopener">{u.source_url}</a></p>
   </article>);
 }

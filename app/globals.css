@@ -4,3 +4,6 @@ input,button,select{padding:.5rem;border-radius:6px;border:1px solid #2a2f3a;mar
 .tag{display:inline-block;font-size:.8rem;padding:.1rem .5rem;border:1px solid #2a2f3a;border-radius:999px;margin-right:.3rem}
 nav a{margin-right:1rem}.active{background:#7cc4ff;color:#000}
 .label{border-color:#f5a524;color:#f5a524}.notice{border-left:3px solid #f5a524;padding:.5rem .75rem;background:#1d1a12}
+
+.tested-badge{border-color:#3ddc84;color:#3ddc84}.tested{border-left-color:#3ddc84;background:#111c16}
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:.75rem}.gallery figure{margin:0}.gallery img{width:100%;height:auto;border-radius:8px;border:1px solid #2a2f3a}figcaption{font-size:.85rem;color:#aab}
