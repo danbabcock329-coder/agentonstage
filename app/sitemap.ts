@@ -6,6 +6,7 @@ import { getAll, SITE_URL } from "@/lib/content";
 
 const STATIC_PAGES: { file: string; path: string; priority: number; changeFrequency: "weekly" | "monthly" }[] = [
   { file: "app/page.tsx", path: "", priority: 1, changeFrequency: "weekly" },
+  { file: "app/tested/page.tsx", path: "/tested", priority: 0.8, changeFrequency: "weekly" },
   { file: "app/submit/page.tsx", path: "/submit", priority: 0.4, changeFrequency: "monthly" },
   { file: "app/sponsor/page.tsx", path: "/sponsor", priority: 0.3, changeFrequency: "monthly" },
 ];
