@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title,
   description,
   alternates: { types: { "application/feed+json": FEED_PATH } },
-  openGraph: { title, description, siteName: "AgentOnStage" },
+  openGraph: { type: "website", title, description, siteName: "AgentOnStage" },
   twitter: { card: "summary", title, description },
 };
 
