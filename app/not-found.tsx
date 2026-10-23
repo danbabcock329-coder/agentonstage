@@ -7,7 +7,6 @@ const description = "That address is not in the AgentOnStage directory. Browse t
 export const metadata: Metadata = {
   title,
   description,
-  robots: { index: false, follow: true },
   alternates: { types: { "application/feed+json": FEED_PATH } },
   openGraph: { type: "website", title, description, siteName: "AgentOnStage" },
   twitter: { card: "summary", title, description },
