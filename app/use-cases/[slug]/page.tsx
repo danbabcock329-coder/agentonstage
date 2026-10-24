@@ -18,7 +18,7 @@ export default async function Page({params}:{params:Promise<{slug:string}>}){
   if(st.length) ld.push({"@context":"https://schema.org","@type":"HowTo",name:u.title,description:u.summary,url,tool:u.tools.map(t=>({"@type":"HowToTool",name:t})),step:st.map((s,i)=>({"@type":"HowToStep",position:i+1,text:s}))});
   if(fq.length) ld.push({"@context":"https://schema.org","@type":"FAQPage",mainEntity:fq.map(f=>({"@type":"Question",name:f.q,acceptedAnswer:{"@type":"Answer",text:f.a}}))});
   return (<article>
-    <script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(ld)}}/>
+    <script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(ld).replace(/</g,"\\u003c")}}/>
     <p><a href="/">← All use cases</a></p><h1>{u.title}</h1>
     {(u.labels||[]).length>0&&<p className="notice">{u.labels!.includes("Commercial product")&&"This is a commercial product. AgentOnStage isn't paid for this listing. "}{u.labels!.includes("Experimental")&&"This tool is experimental or a prototype. Don't use it on a live show without testing."}</p>}
     {u.tested_on_rig&&<p className="notice tested"><span className="tag tested-badge">Tested on a real rig</span> Tested {u.tested_on_rig} on {u.rig}. <a href="/tested">All rig tests</a></p>}
