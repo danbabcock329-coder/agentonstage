@@ -7,6 +7,6 @@ export default function Newsletter(){
     const j=await r.json(); setMsg(j.message); }
   return (<form onSubmit={submit} className="card">
     <strong>AI on Stage, a weekly newsletter</strong><p>New agent use cases for live events, once a week.</p>
-    <input type="email" required placeholder="you@venue.com" value={email} onChange={e=>setEmail(e.target.value)}/>
+    <input type="email" required aria-label="Email address" placeholder="you@venue.com" value={email} onChange={e=>setEmail(e.target.value)}/>
     <button type="submit">Subscribe</button>{msg&&<p>{msg}</p>}</form>);
 }

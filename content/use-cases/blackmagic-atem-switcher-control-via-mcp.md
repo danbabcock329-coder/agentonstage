@@ -5,12 +5,12 @@ category: "LED/Video"
 tools: ["Blackmagic ATEM", "MCP"]
 difficulty: Intermediate
 source_url: https://github.com/guycochran/atem-mcp-server
-summary: "An MCP server for driving ATEM switchers from an AI assistant."
+summary: "An MCP server that drives a Blackmagic ATEM from an assistant, locally over stdio or remotely over Streamable HTTP with OAuth, including cuts, macros, and streaming."
 ---
 
 ## What it does
 
-An MCP server for driving ATEM switchers from an AI assistant.
+An MCP server that drives a Blackmagic ATEM from an assistant, locally over stdio or remotely over Streamable HTTP with OAuth, including cuts, macros, and streaming.
 
 ## How to set it up
 

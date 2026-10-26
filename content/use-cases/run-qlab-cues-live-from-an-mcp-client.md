@@ -5,12 +5,12 @@ category: "Show Control"
 tools: ["QLab", "OSC", "MCP"]
 difficulty: Intermediate
 source_url: https://github.com/magichao326/qlab-mcp
-summary: "Query workspaces, search cues and fire or stop them from an assistant over OSC."
+summary: "An MCP server that queries a QLab workspace, searches cues, and fires or stops them over OSC. It can also send raw OSC or AppleScript."
 ---
 
 ## What it does
 
-Query workspaces, search cues and fire or stop them from an assistant over OSC.
+An MCP server that queries a QLab workspace, searches cues, and fires or stops them over OSC. It can also send raw OSC or AppleScript.
 
 ## How to set it up
 
