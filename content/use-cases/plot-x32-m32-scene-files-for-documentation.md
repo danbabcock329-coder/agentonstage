@@ -5,12 +5,12 @@ category: "Production Ops"
 tools: ["Behringer X32", "Midas M32"]
 difficulty: Beginner
 source_url: https://github.com/lucaelin/scnplot
-summary: "Turns console scene files into readable plots for show binders and handoffs."
+summary: "A browser app that turns an X32 or M32 .scn file into a printable channel plot for a show binder or rider, with no console connected."
 ---
 
 ## What it does
 
-Turns console scene files into readable plots for show binders and handoffs.
+A browser app that turns an X32 or M32 .scn file into a printable channel plot for a show binder or rider, with no console connected.
 
 ## How to set it up
 

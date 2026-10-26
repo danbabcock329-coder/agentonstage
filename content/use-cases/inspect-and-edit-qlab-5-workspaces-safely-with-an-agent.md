@@ -5,12 +5,12 @@ category: "Show Control"
 tools: ["QLab 5", "OSC", "MCP"]
 difficulty: Intermediate
 source_url: https://github.com/MarcheKEN/Qlab-MCP
-summary: "A safety-focused MCP server for reading and editing QLab cues over OSC."
+summary: "A safety-focused MCP server for QLab 5 over OSC: 43 read-only tools for workspaces and cues, and five write tools that dry-run first. It has no playback tools."
 ---
 
 ## What it does
 
-A safety-focused MCP server for reading and editing QLab cues over OSC.
+A safety-focused MCP server for QLab 5 over OSC: 43 read-only tools for workspaces and cues, and five write tools that dry-run first. It has no playback tools.
 
 ## How to set it up
 
