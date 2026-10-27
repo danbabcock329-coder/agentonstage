@@ -5,7 +5,7 @@ category: "Lighting"
 tools: ["grandMA2", "Lua"]
 difficulty: Intermediate
 source_url: https://github.com/chienchuanw/gma2-plugins
-summary: "Community grandMA2 plugins including AI-assisted tools such as cue info editors."
+summary: "Community grandMA2 Lua plugins, including AI-assisted cue info editors, with notes for writing plugins in MA2 command syntax. Load them on onPC before a show."
 ---
 
 ## What it does

@@ -5,7 +5,7 @@ category: "Audio"
 tools: ["Behringer X32", "OSC", "MCP"]
 difficulty: Intermediate
 source_url: https://github.com/elisha-rudenkov/x32-mcp-server
-summary: "A rewrite of an earlier OSC MCP server with a wider set of X32 tools for agents."
+summary: "A wider X32 OSC MCP server for agents. It can audit scenes, trace signal flow, repair routing, edit EQ, swap FX, and snapshot meters on console port 10023."
 ---
 
 ## What it does

@@ -5,7 +5,7 @@ category: "Production Ops"
 tools: ["Bitfocus Companion"]
 difficulty: Beginner
 source_url: https://github.com/tomhillmeyer/companion-dashboard
-summary: "A dashboard for showing Companion variables, like timers and states, to crew screens."
+summary: "A Mac, Windows, Linux, and Raspberry Pi dashboard that puts Bitfocus Companion variables, such as timers and states, on a backstage or FOH crew screen."
 ---
 
 ## What it does
