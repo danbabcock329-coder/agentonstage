@@ -5,7 +5,7 @@ category: "LED/Video"
 tools: ["vMix", "MCP"]
 difficulty: Intermediate
 source_url: https://github.com/Scissorfilms/mcp-server-vmix
-summary: "Lets an assistant switch inputs and run vMix functions for live video production."
+summary: "An MCP server on vMix's Web Controller so an assistant can switch inputs and run functions for overlays, recording, audio, titles, replay, and scripting. Tools are marked read-only or destructive."
 ---
 
 ## What it does
