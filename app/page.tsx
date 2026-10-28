@@ -1,7 +1,7 @@
 import Directory from "@/components/Directory";
 import { getAll, CATEGORIES, FEED_PATH, SITE_URL } from "@/lib/content";
 const title="AgentOnStage: AI agent use cases for live events";
-const description="A directory of AI agent use cases for show control, LED/video, audio, lighting, TouchDesigner and production ops.";
+const description="Sourced AI agent use cases for live events: show control, LED/video, audio, lighting, TouchDesigner and production ops.";
 export const metadata={title:{absolute:title},description,alternates:{canonical:"/",types:{"application/feed+json":FEED_PATH}},openGraph:{type:"website",siteName:"AgentOnStage",url:"/",title,description},twitter:{card:"summary",title,description}};
 export default function Home(){
   const all=getAll();
