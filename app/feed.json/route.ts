@@ -3,7 +3,7 @@ import { gitFileDates } from "@/lib/git-dates";
 
 export const dynamic = "force-static";
 
-const DESCRIPTION = "A directory of AI agent use cases for show control, LED/video, audio, lighting, TouchDesigner and production ops.";
+const DESCRIPTION = "Sourced AI agent use cases for live events: show control, LED/video, audio, lighting, TouchDesigner and production ops.";
 
 export function GET() {
   const all = getAll();

@@ -1,4 +1,4 @@
-const title="Submit a use case";
+const title="Submit a live-event use case";
 const description="Submit a real AI or agent workflow you use in live events, with a public source link, to be reviewed for the AgentOnStage directory.";
 export const metadata={title,description,alternates:{canonical:"/submit",types:{"application/feed+json":"/feed.json"}},openGraph:{type:"website",siteName:"AgentOnStage",title,description,url:"/submit"},twitter:{card:"summary",title,description}};
 export default function Submit(){ const url=process.env.NEXT_PUBLIC_SUBMIT_URL;
