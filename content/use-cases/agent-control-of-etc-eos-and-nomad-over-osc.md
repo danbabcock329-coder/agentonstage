@@ -5,7 +5,7 @@ category: "Lighting"
 tools: ["ETC Eos", "OSC", "MCP"]
 difficulty: Advanced
 source_url: https://github.com/Nairolf138/Eos_MCP
-summary: "An MCP server with a large Eos tool set so assistants can query and drive the console."
+summary: "An MCP server with a large Eos tool set so assistants can query and drive the console. Start read-only and strict, and run eos_readiness_check before programming or playback."
 ---
 
 ## What it does

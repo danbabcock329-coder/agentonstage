@@ -5,7 +5,7 @@ category: "Production Ops"
 tools: ["Behringer X32"]
 difficulty: Beginner
 source_url: https://github.com/cstranex/x32-patch-list
-summary: "Generates printable patch lists from a scene file, a good input for agent-written show docs."
+summary: "Generates printable patch lists from an X32 scene file, a good input for agent-written show docs. The Flask app takes an uploaded scene file and prints the list."
 ---
 
 ## What it does

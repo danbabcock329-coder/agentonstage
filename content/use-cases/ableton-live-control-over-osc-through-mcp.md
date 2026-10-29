@@ -5,7 +5,7 @@ category: "Audio"
 tools: ["Ableton Live", "OSC", "MCP"]
 difficulty: Intermediate
 source_url: https://github.com/Simon-Kansara/ableton-live-mcp-server
-summary: "Exposes Ableton Live's OSC interface to AI assistants for session and transport control."
+summary: "Exposes Ableton Live's OSC interface to AI assistants for session and transport control by turning AbletonOSC addresses into MCP tools. It needs Python 3.8+, python-osc, fastmcp, and uv."
 ---
 
 ## What it does

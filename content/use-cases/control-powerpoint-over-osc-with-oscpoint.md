@@ -5,7 +5,7 @@ category: "Show Control"
 tools: ["PowerPoint", "OSC"]
 difficulty: Beginner
 source_url: https://github.com/phuvf/oscpoint
-summary: "A PowerPoint add-in that lets show control or agents advance and query slides via OSC."
+summary: "A Windows PowerPoint add-in that lets show control or agents advance and query slides via OSC, and sends the current slide back for button feedback."
 ---
 
 ## What it does
