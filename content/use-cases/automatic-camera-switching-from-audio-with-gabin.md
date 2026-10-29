@@ -5,7 +5,7 @@ category: "Show Control"
 tools: ["OBS", "Bitfocus Companion"]
 difficulty: Intermediate
 source_url: https://github.com/miroir-os/gabin
-summary: "Switches cameras automatically based on who is talking, useful for panels and podcasts."
+summary: "Switches cameras automatically based on who is talking, useful for panels and podcasts. Map each microphone to a camera in OBS or Companion. The README notes ASIO does not work with the XR32 mixer."
 ---
 
 ## What it does
