@@ -5,12 +5,12 @@ category: "Audio"
 tools: ["Whisper", "OBS"]
 difficulty: Beginner
 source_url: https://github.com/Church-Cap/Live-Church-Captions
-summary: "Open-source, local-first real-time captioning that can feed screens or a stream overlay."
+summary: "Church Cap runs local Whisper captions from one audio feed, serves them to phones on venue Wi-Fi, and can add an OBS browser source."
 ---
 
 ## What it does
 
-Open-source, local-first real-time captioning that can feed screens or a stream overlay.
+Church Cap runs local Whisper captions from one audio feed, serves them to phones on venue Wi-Fi, and can add an OBS browser source. It stays on the venue network.
 
 ## How to set it up
 
