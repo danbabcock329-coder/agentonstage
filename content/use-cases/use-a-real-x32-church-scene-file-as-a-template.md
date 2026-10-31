@@ -5,7 +5,7 @@ category: "Production Ops"
 tools: ["Behringer X32"]
 difficulty: Beginner
 source_url: https://github.com/cabcookie/saddleback-x32-general-scene
-summary: "A published production team's X32 scene file you can study or adapt as a starting template."
+summary: "A published Behringer X32 .scn file whose README walks the scene section by section, as a reference for reading or generating scene files. Some sections are marked not yet evaluated."
 ---
 
 ## What it does
