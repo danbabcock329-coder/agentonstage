@@ -5,7 +5,7 @@ category: "TouchDesigner"
 tools: ["ComfyUI", "TouchDesigner"]
 difficulty: Intermediate
 source_url: https://github.com/JiSenHua/ComfyUI-TD
-summary: "A ComfyUI custom node that streams generated media straight into TouchDesigner for real-time use."
+summary: "A ComfyUI custom node that streams workflow images, video, and audio into a TouchDesigner component. Install it from ComfyUI-Manager as ComfyUI-TD."
 ---
 
 ## What it does

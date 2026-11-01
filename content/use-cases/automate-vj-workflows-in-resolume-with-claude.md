@@ -5,7 +5,7 @@ category: "LED/Video"
 tools: ["Resolume Avenue/Arena", "MCP"]
 difficulty: Beginner
 source_url: https://github.com/Tortillaguy/resolume-mcp
-summary: "Lets an assistant trigger clips and manage layers in Resolume from natural-language requests."
+summary: "An MCP server for Resolume Avenue and Arena. Point RESOLUME_HOST at the machine, then an assistant can fade a layer or connect a clip over WebSocket."
 ---
 
 ## What it does
