@@ -6,7 +6,7 @@ tools: ["DMX", "OLA", "MCP"]
 difficulty: Intermediate
 source_url: https://github.com/prmichaelsen/dmx-mcp
 labels: ["Experimental"]
-summary: "An MCP server for building and running DMX lighting shows via the Open Lighting Architecture."
+summary: "An experimental MCP server for OLA so an assistant can patch fixtures, build scenes and cues, and play them. The page says the repo is early, so test it first."
 ---
 
 ## What it does

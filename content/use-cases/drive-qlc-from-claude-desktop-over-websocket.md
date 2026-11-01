@@ -5,7 +5,7 @@ category: "Lighting"
 tools: ["QLC+", "WebSocket", "MCP"]
 difficulty: Beginner
 source_url: https://github.com/guac395/qlc-plus-mcp
-summary: "An MCP server that exposes QLC+ functions so an assistant can run free, open-source lighting control."
+summary: "An MCP server with 25 tools for QLC+. Start qlcplus -w, point it at port 9999, and an assistant can run scenes, widgets, and DMX channel writes."
 ---
 
 ## What it does

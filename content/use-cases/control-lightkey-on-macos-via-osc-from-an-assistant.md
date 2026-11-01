@@ -5,7 +5,7 @@ category: "Lighting"
 tools: ["Lightkey", "OSC", "MCP"]
 difficulty: Beginner
 source_url: https://github.com/groundroot/lightkey-mcp
-summary: "Lets an MCP client trigger Lightkey presets and cues, a simple path to AI-assisted lighting on Mac."
+summary: "An MCP server for Lightkey on macOS. Enable OSC at 127.0.0.1 UDP port 21600, then an assistant can fire cues, palettes, blackout, BPM, and raw OSC."
 ---
 
 ## What it does

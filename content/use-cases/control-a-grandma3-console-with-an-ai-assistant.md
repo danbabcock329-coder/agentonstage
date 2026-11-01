@@ -6,7 +6,7 @@ tools: ["grandMA3", "MCP"]
 difficulty: Advanced
 source_url: https://github.com/Pahegi/ma3-mcp
 labels: ["Experimental"]
-summary: "An MCP server that sends commands to grandMA3 so an assistant can help program and operate a lighting rig."
+summary: "An experimental grandMA3 plugin and MCP server. An assistant can run commands, store cues, and fire playbacks. The README calls it a prototype. Test on onPC."
 ---
 
 ## What it does

@@ -5,7 +5,7 @@ category: "Production Ops"
 tools: ["Eos", "MA2/MA3", "AI"]
 difficulty: Beginner
 source_url: https://github.com/tannerharris0n/cue-list-generator
-summary: "An open-source AI cue list generator that formats output for specific lighting console families."
+summary: "An open-source generator that turns a timeline and rig notes into a starter cue stack numbered for Eos, MA2/MA3, Avolites, Hog 4, ChamSys, or Onyx."
 ---
 
 ## What it does

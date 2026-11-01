@@ -5,7 +5,7 @@ category: "Show Control"
 tools: ["Bitfocus Companion", "Stream Deck"]
 difficulty: Beginner
 source_url: https://github.com/bitfocus/companion
-summary: "The standard open-source shotbox for production gear, and a common trigger point for automations."
+summary: "Bitfocus Companion turns a Stream Deck into a shotbox for show gear. Triggers plus OSC or HTTP remote control let another system, including an agent, press buttons."
 ---
 
 ## What it does
