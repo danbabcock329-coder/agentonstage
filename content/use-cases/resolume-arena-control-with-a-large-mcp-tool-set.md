@@ -5,7 +5,7 @@ category: "LED/Video"
 tools: ["Resolume Arena", "MCP"]
 difficulty: Intermediate
 source_url: https://github.com/drohi-r/resolume-mcp
-summary: "An MCP server covering playback, composition and Advanced Output for agent-assisted VJ and LED work."
+summary: "An MCP server with about 200 tools for Resolume Arena playback, composition and Advanced Output. It talks to the HTTP API on port 8080 over REST, WebSocket and OSC."
 ---
 
 ## What it does

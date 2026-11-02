@@ -5,7 +5,7 @@ category: "Audio"
 tools: ["Behringer X32", "Midas M32", "OSC", "MCP"]
 difficulty: Intermediate
 source_url: https://github.com/anteriovieira/osc-mcp-server
-summary: "An MCP server that maps mixer actions to OSC so an assistant can read and set faders, mutes and routing."
+summary: "An MCP server that sends X32 and M32 OSC on port 10023 so an assistant can read and set faders, mutes and pan on channels, buses, aux, matrix and main LR."
 ---
 
 ## What it does

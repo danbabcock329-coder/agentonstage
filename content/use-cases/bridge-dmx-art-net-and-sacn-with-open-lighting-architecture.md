@@ -5,7 +5,7 @@ category: "Lighting"
 tools: ["OLA", "DMX", "Art-Net", "sACN"]
 difficulty: Intermediate
 source_url: https://github.com/OpenLightingProject/ola
-summary: "The open-source \"travel adaptor\" for lighting protocols that many agent and scripting tools use underneath."
+summary: "OLA bridges DMX512 USB interfaces, Art-Net and sACN. Start olad, patch universes in the web UI on port 9090, and point agent tools such as dmx-mcp at OLA."
 ---
 
 ## What it does

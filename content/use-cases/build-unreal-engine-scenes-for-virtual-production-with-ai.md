@@ -6,7 +6,7 @@ tools: ["Unreal Engine", "MCP"]
 difficulty: Advanced
 source_url: https://github.com/chongdashu/unreal-mcp
 labels: ["Experimental"]
-summary: "Lets assistants like Cursor or Claude control Unreal Engine, useful for previs and LED volume content."
+summary: "An experimental Unreal plugin and Python MCP server for Cursor, Windsurf or Claude Desktop. The README warns of breaking changes. Use it for stage previs, not on an LED volume during a shoot."
 ---
 
 ## What it does
