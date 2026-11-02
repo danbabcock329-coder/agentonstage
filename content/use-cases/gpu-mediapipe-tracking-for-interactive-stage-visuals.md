@@ -5,7 +5,7 @@ category: "TouchDesigner"
 tools: ["TouchDesigner", "MediaPipe"]
 difficulty: Beginner
 source_url: https://github.com/torinmb/mediapipe-touchdesigner
-summary: "Hand, face and pose tracking inside TouchDesigner without extra hardware, good for audience-reactive installations."
+summary: "MediaPipe.tox tracks face, hands and pose from a webcam inside TouchDesigner. Open the example toe, enable the models you need, and read the tracking CHOPs into the visual."
 ---
 
 ## What it does
