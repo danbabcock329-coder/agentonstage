@@ -5,7 +5,7 @@ category: "Show Control"
 tools: ["vMix", "MCP"]
 difficulty: Beginner
 source_url: https://github.com/greenhouselabs/cuescope-mcp
-summary: "CueScope gives an agent read access to production state for reporting and checks without risky writes."
+summary: "CueScope's MCP server gives an agent a read-only view of vMix for reporting and checks. By default it does not switch inputs, run scripts, start streams, or change audio."
 ---
 
 ## What it does
