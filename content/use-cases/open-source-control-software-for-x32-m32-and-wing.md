@@ -6,7 +6,7 @@ tools: ["X32", "M32", "WING"]
 difficulty: Advanced
 source_url: https://github.com/OpenMixerProject/OpenMixerControl
 labels: ["Experimental"]
-summary: "An open project running custom control software on digital consoles, useful for experimenting with automation."
+summary: "OpenMixerControl is experimental control software for the OpenX32 and OpenWING custom Linux firmware. Build the PC/SDL2 target before it goes anywhere near a console."
 ---
 
 ## What it does
