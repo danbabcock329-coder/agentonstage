@@ -6,7 +6,7 @@ tools: ["DmxControlPro3", "DMX", "OpenAPI"]
 difficulty: Intermediate
 source_url: https://lightning-dmxcontrol.com/dmxcontrolpro-3
 labels: ["Commercial product"]
-summary: "DmxControlPro3 3.2 adds an optional local HTTP/OpenAPI Agent API so a compatible external assistant can read the running Mac show and request supported channel, patchbay, preset, cue, window and project actions."
+summary: "DmxControlPro3 3.2's optional local HTTP/OpenAPI Agent API reads the running Mac show and requests channel, patchbay, preset, cue, window, and project actions."
 ---
 
 ## What it does

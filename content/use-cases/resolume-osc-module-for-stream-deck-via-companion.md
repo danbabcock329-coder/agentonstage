@@ -5,7 +5,7 @@ category: "LED/Video"
 tools: ["Resolume Arena", "Bitfocus Companion", "OSC"]
 difficulty: Beginner
 source_url: https://github.com/ElytaM/companion-module-resolume-arena-osc-unofficial
-summary: "Unofficial Companion module with clip slots and feedback, so button surfaces and automations can drive Resolume."
+summary: "Unofficial Companion module with Resolume clip slots and OSC feedback, so Stream Deck buttons can drive Arena on port 7000 with feedback on port 7001."
 ---
 
 ## What it does

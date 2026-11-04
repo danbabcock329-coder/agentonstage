@@ -5,7 +5,7 @@ category: "Audio"
 tools: ["Behringer WING", "C"]
 difficulty: Advanced
 source_url: https://github.com/pmaillot/wapi
-summary: "A C API for Behringer WING consoles. The GitHub repo now points to the author's own download site for the library."
+summary: "A C API for Behringer WING consoles. GitHub now points to the author's site for the library, demo programs, and docs used to read and set parameters."
 ---
 
 ## What it does
