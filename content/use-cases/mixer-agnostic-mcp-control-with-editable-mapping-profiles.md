@@ -5,7 +5,7 @@ category: "Audio"
 tools: ["X32/M32", "WING", "OSC", "MCP"]
 difficulty: Intermediate
 source_url: https://github.com/bulyaki/ConsoleMCP
-summary: "ConsoleMCP uses user-editable profiles so the same agent workflow can target several console families over OSC."
+summary: "ConsoleMCP uses user-editable profiles so the same agent workflow can target several console families over OSC. Each profile command becomes an MCP tool."
 ---
 
 ## What it does

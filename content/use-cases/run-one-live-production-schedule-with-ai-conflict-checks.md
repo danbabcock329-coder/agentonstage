@@ -6,7 +6,7 @@ tools: ["ShowOps.AI"]
 difficulty: Beginner
 source_url: https://showops.ai/produce
 labels: ["Commercial product"]
-summary: "ShowOps.AI's Produce module keeps a single schedule across departments from load-in to strike. It flags conflicts such as overlapping dock use and creates call sheets once staffing is confirmed."
+summary: "ShowOps.AI Produce keeps one schedule from load-in to strike, flags conflicts such as overlapping dock use, and creates call sheets once staffing is confirmed."
 ---
 
 ## What it does

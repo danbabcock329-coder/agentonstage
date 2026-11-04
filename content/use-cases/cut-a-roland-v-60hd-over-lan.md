@@ -6,7 +6,7 @@ tools: ["Roland V-60HD", "TCP"]
 difficulty: Intermediate
 source_url: https://static.roland.com/assets/media/pdf/V-60HD_reference_v31_eng04_W.pdf
 labels: ["Commercial product"]
-summary: "The V-60HD reference manual for version 3.1 takes Telnet-style commands on TCP port 8023. Each command starts with byte 02 hex and ends in a semicolon. PGM:0 selects SDI IN 1, and CUT performs a cut."
+summary: "V-60HD 3.1 takes Telnet-style commands on TCP port 8023. Each starts with byte 02 hex and ends in a semicolon. PGM:0 selects SDI IN 1, and CUT performs a cut."
 ---
 
 ## What it does
