@@ -7,7 +7,7 @@ difficulty: Intermediate
 tested_on_rig: "2026-10-19"
 rig: "a Behringer X32 with a Dante card and a laptop running Claude Desktop"
 source_url: https://github.com/pmaillot/X32-Behringer
-summary: "On a real X32, Claude Desktop read channel names, fader levels and all 16 mix buses through an x32-mcp-server over OSC, then renamed a channel and put it back. Every read matched the console."
+summary: "On a real X32, Claude Desktop read names, faders, and all 16 mix buses over OSC, then renamed a channel and restored it. Every read matched the console."
 rig_photos:
   - src: /rig/2026-10-19/x32-ch1-dj-left.jpg
     alt: "Behringer X32 channel screen showing channel 1 named DJ Left"

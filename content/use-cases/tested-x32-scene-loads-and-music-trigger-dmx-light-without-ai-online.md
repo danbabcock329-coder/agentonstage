@@ -7,7 +7,7 @@ difficulty: Advanced
 tested_on_rig: "2026-10-19"
 rig: "a Behringer X32, a laptop running a local Node.js listener, and a Chauvet RGBW par on an ENTTEC DMX USB Pro"
 source_url: https://github.com/pmaillot/X32-Behringer
-summary: "A local listener on the laptop fires light looks when an X32 scene loads, keyed on the name of channel 32, and a second mode makes the light follow music using the X32's meters. Neither needs Claude or the internet."
+summary: "Local listener fires light looks when an X32 scene loads, keyed on channel 32's name, or follows music from the meters. Neither needs Claude or the internet."
 rig_photos:
   - src: /rig/2026-10-19/x32-scenes-list.jpg
     alt: "Behringer X32 scenes list showing scene 00 Centra band and scene 01 Crown"
