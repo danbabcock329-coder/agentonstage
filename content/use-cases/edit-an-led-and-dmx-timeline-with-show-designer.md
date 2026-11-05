@@ -5,7 +5,7 @@ category: "Lighting"
 tools: ["Show Designer", "Art-Net", "sACN", "DMX", "MCP"]
 difficulty: Intermediate
 source_url: https://github.com/guillegar/show_designer
-summary: "Show Designer Pro is a headless Python lighting app with a browser timeline and 3D view. Its MCP server forwards 62 tools to a WebSocket bridge on port 9876 so an assistant can edit the show."
+summary: "Show Designer Pro is a headless Python lighting app with a browser timeline and 3D view. Its MCP server forwards 62 tools to a WebSocket bridge on port 9876."
 ---
 
 ## What it does

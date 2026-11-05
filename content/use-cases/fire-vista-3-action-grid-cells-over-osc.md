@@ -6,7 +6,7 @@ tools: ["Vista", "OSC"]
 difficulty: Intermediate
 source_url: https://www.sceneteknikk.no/wp-content/uploads/Vista-by-Chroma-Q-Vista-3-R5.0-Release-Notes.pdf
 labels: ["Commercial product"]
-summary: "Vista 3 R5.0, build 1715, listens for OSC on the port you set under File > Preferences. /V3/actionGrid/1/button/row/1/col/2 with 1 presses that cell, and the same address with 0 releases it."
+summary: "Vista 3 R5.0 build 1715 listens on the OSC port set under File > Preferences. /V3/actionGrid/1/button/row/1/col/2 with 1 presses that cell, and 0 releases it."
 ---
 
 ## What it does

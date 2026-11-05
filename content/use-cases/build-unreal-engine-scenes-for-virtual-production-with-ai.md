@@ -6,7 +6,7 @@ tools: ["Unreal Engine", "MCP"]
 difficulty: Advanced
 source_url: https://github.com/chongdashu/unreal-mcp
 labels: ["Experimental"]
-summary: "An experimental Unreal plugin and Python MCP server for Cursor, Windsurf or Claude Desktop. The README warns of breaking changes. Use it for stage previs, not on an LED volume during a shoot."
+summary: "Experimental Unreal plugin and Python MCP server for Cursor, Windsurf, or Claude Desktop. README warns of breaking changes. For previs, not a live LED volume."
 ---
 
 ## What it does

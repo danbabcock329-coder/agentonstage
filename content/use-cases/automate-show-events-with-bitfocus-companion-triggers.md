@@ -5,7 +5,7 @@ category: "Show Control"
 tools: ["Bitfocus Companion"]
 difficulty: Beginner
 source_url: https://companion.free/user-guide/v4.1/config/triggers/
-summary: "Companion triggers run any button action automatically when an event happens, such as a time interval, a variable change or startup. They're the simplest automation layer to put under an agent."
+summary: "Companion triggers run a button action on a timer, a variable change, or startup. They are the automation layer to put under an agent."
 ---
 
 ## What it does

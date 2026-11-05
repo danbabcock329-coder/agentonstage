@@ -6,7 +6,7 @@ tools: ["Singular.live", "HTTP"]
 difficulty: Intermediate
 source_url: https://developer.singular.live/rest-api/api-reference/send-data-to-a-control-app/update-a-control-apps-animation-state
 labels: ["Commercial product"]
-summary: "PATCH app.singular.live/apiv2/controlapps/{token}/control sets one sub-composition to In, Out1, or Out2. POST the same app's /command path with TakeOutAllOutput animates every overlay to Out."
+summary: "PATCH controlapps/{token}/control sets a sub-composition to In, Out1, or Out2. POST /command with TakeOutAllOutput takes every overlay out."
 ---
 
 ## What it does
