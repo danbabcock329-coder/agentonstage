@@ -5,7 +5,7 @@ category: "LED/Video"
 tools: ["OBS Studio", "obs-websocket", "MCP"]
 difficulty: Beginner
 source_url: https://github.com/ironystock/agentic-obs
-summary: "agentic-obs is an MCP server for OBS Studio. Enable the WebSocket server on port 4455, then an assistant can drive scenes, sources, recording, and streaming. The project lists 81 tools."
+summary: "agentic-obs is an MCP server for OBS Studio. On WebSocket port 4455 an assistant can drive scenes, sources, recording, and streaming. It lists 81 tools."
 ---
 
 ## What it does

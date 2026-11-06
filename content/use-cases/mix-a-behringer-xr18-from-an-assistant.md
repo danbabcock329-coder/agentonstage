@@ -6,7 +6,7 @@ tools: ["Behringer XR18", "OSC", "MCP"]
 difficulty: Advanced
 source_url: https://github.com/gdeber/xr18-mcp
 labels: ["Experimental"]
-summary: "xr18-mcp talks to a Behringer XR18 on UDP port 10024 so an assistant can move faders and sends in dB, with readback on request and a confirm gate on phantom, snapshots, and network changes."
+summary: "xr18-mcp talks to an XR18 on UDP 10024 and moves faders and sends in dB, with readback and a confirm gate on phantom, snapshots, and network changes."
 ---
 
 ## What it does

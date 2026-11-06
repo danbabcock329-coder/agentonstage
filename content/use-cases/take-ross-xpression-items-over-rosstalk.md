@@ -6,7 +6,7 @@ tools: ["Ross XPression", "RossTalk"]
 difficulty: Intermediate
 source_url: https://help.rossvideo.com/carbonite-device/Topics/Protocol/RossTalk/XPN/RT-XPN-Comm.html
 labels: ["Commercial product"]
-summary: "XPression accepts RossTalk on TCP port 7788, each command ended by CR/LF. TAKE 5:0:7 loads take item 5 into framebuffer 1 on layer 7. RossTalk framebuffer 0 is XPression framebuffer 1."
+summary: "XPression takes RossTalk on TCP 7788, commands ended by CR/LF. TAKE 5:0:7 loads item 5 into framebuffer 1 on layer 7. Buffer 0 is framebuffer 1."
 ---
 
 ## What it does

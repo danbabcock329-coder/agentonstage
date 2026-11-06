@@ -6,7 +6,7 @@ tools: ["Behringer WING", "OSC", "MCP"]
 difficulty: Advanced
 source_url: https://github.com/bawaaaaah/wing-mcp-server
 labels: ["Experimental"]
-summary: "wing-mcp-server speaks the WING's OSC and metering protocols so an assistant can mix, process and patch the desk, with dry-run, undo and an optional show mode that blocks audible writes."
+summary: "wing-mcp-server speaks WING OSC and metering so an assistant can mix, process, and patch, with dry-run, undo, and a show mode that blocks audible writes."
 ---
 
 ## What it does
