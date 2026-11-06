@@ -5,7 +5,7 @@ category: "LED/Video"
 tools: ["MadMapper", "OSC"]
 difficulty: Intermediate
 source_url: https://docs.madmapper.com/madmapper/6/11.-live-performance-and-control/osc-commands-and-channels-list
-summary: "MadMapper takes OSC on the port set under Preferences, typically 8000. Sending 0 to /surfaces/*/opacity blacks out every surface, and OSC Query lists the addresses for the open project."
+summary: "MadMapper takes OSC on the Preferences port, typically 8000. Send 0 to /surfaces/*/opacity to black out every surface. OSC Query lists project addresses."
 ---
 
 ## What it does

@@ -6,7 +6,7 @@ tools: ["Green-GO", "OSC"]
 difficulty: Intermediate
 source_url: https://manual.greengoconnect.com/en/scripting/osc/
 labels: ["Commercial product"]
-summary: "Green-GO's OSC API listens on a UDP port from 6500 to 65535. /Channel/1/Talk with integer 2 latches talk on channel 1. A bare address reads the value back, but /Reboot reboots anyway."
+summary: "Green-GO OSC listens on UDP 6500 to 65535. /Channel/1/Talk integer 2 latches talk on channel 1. A bare address reads the value, but /Reboot reboots anyway."
 ---
 
 ## What it does

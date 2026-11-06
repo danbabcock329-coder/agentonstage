@@ -6,7 +6,7 @@ tools: ["Christie Inspire", "TCP"]
 difficulty: Intermediate
 source_url: https://www.christiedigital.com/globalassets/resources/public/020-103542-03-Christie-LIT-TECH-REF-Inspire-Series-API.pdf
 labels: ["Commercial product"]
-summary: "Christie Inspire projectors take parenthesized serial commands on TCP port 3002, so a client can read power, shutter, and input on the DWU760, 860, and 960 models before it changes one."
+summary: "Christie Inspire serial commands on TCP 3002 let a client read power, shutter, and input on the DWU760, 860, and 960 before it changes one."
 ---
 
 ## What it does
