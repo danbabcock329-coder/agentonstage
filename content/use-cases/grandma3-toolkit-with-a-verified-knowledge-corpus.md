@@ -5,7 +5,7 @@ category: "Lighting"
 tools: ["grandMA3", "MCP"]
 difficulty: Advanced
 source_url: https://github.com/DD-cLD/The3-MCP
-summary: "The3-MCP pairs grandMA3 agent tools with a concept index checked on a live console. Install the Python 3.12+ server and run its offline protocol check before connecting the desk."
+summary: "The3-MCP pairs grandMA3 agent tools with a concept index checked on a live console. Run its offline protocol check before connecting the desk."
 ---
 
 ## What it does

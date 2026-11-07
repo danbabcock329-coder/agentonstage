@@ -6,7 +6,7 @@ tools: ["TouchDesigner", "tdmcp", "LLM"]
 difficulty: Advanced
 source_url: https://forum.derivative.ca/t/ai-controlled-parties-with-touchdesigner-tdmcp-concept-feedback-welcome/993426
 labels: ["Experimental"]
-summary: "A Derivative forum thread proposing an AI layer that picks pre-approved cues and moods. Hazardous effects stay operator-only, and changes go through dry runs and approval queues."
+summary: "A Derivative forum thread proposes an AI layer that picks pre-approved cues and moods. Hazardous effects stay operator-only, behind dry runs and approval."
 ---
 
 ## What it does

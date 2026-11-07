@@ -5,7 +5,7 @@ category: "Show Control"
 tools: ["QLab", "AppleScript", "OSC", "MIDI/MSC"]
 difficulty: Intermediate
 source_url: https://qlab.app/cookbook/show-control-cues-generator/
-summary: "A QLab Cookbook workspace with script-cue generators for OSC, QLab-format OSC, MSC and MIDI program change cues. It saves hours of typing when QLab drives consoles or media servers."
+summary: "A QLab Cookbook workspace generates OSC, QLab-format OSC, MSC, and MIDI program-change cues for when QLab drives consoles or media servers."
 ---
 
 ## What it does

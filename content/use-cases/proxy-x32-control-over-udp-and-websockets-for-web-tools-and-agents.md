@@ -5,7 +5,7 @@ category: "Audio"
 tools: ["Behringer X32", "WebSocket", "UDP"]
 difficulty: Intermediate
 source_url: https://github.com/audiopump/x32-proxy
-summary: "x32-proxy relays X32, M32, and X-Air traffic over UDP or WebSocket. Install it with npm, bind a local address, and point X32 Edit or an agent at the proxy instead of the console."
+summary: "x32-proxy relays X32, M32, and X-Air traffic over UDP or WebSocket. Point X32 Edit or an agent at the proxy instead of the console."
 ---
 
 ## What it does
