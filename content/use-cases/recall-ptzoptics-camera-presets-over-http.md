@@ -6,7 +6,7 @@ tools: ["PTZOptics", "HTTP"]
 difficulty: Intermediate
 source_url: https://docs.ptzoptics.com/dev/guides/http-api-getting-started/
 labels: ["Commercial product"]
-summary: "PTZOptics documents camera CGI commands for home, pan, tilt, and presets. Digest auth applies when it is enabled, and a speed-qualified POST is the page that says it calls a preset."
+summary: "PTZOptics CGI covers home, pan, tilt, and presets. Digest auth applies when it is enabled. A speed-qualified POST is the call that recalls a preset."
 ---
 
 ## What it does

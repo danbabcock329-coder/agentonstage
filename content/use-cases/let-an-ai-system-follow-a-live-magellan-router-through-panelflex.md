@@ -6,7 +6,7 @@ tools: ["Magellan PanelFlex", "Magellan Control System", "MCP"]
 difficulty: Advanced
 source_url: https://imaginecommunications.com/insights-and-resources/imagine-unveils-latest-control-portfolio-advances-at-ibc2026-with-debut-of-magellan-panelflex/
 labels: ["Commercial product"]
-summary: "Imagine's Magellan PanelFlex-AI, introduced at IBC2026, organizes Magellan Control System status into an MCP interface so an AI system can follow and act on live routing information."
+summary: "Magellan PanelFlex-AI, shown at IBC2026, puts Magellan Control System status on an MCP interface so an AI system can follow and act on live routing."
 ---
 
 ## What it does

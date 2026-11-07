@@ -5,7 +5,7 @@ category: "Show Control"
 tools: ["Elgato Stream Deck", "NVIDIA Project G-Assist", "MCP"]
 difficulty: Beginner
 source_url: https://www.youtube.com/watch?v=VoY9XBpZuWA
-summary: "Elgato's video shows NVIDIA's Project G-Assist using voice to fire Stream Deck actions through the Stream Deck MCP server. This makes hands-free cueing possible for simple setups."
+summary: "Elgato's video shows NVIDIA Project G-Assist using voice to fire Stream Deck actions through the Stream Deck MCP server."
 ---
 
 ## What it does

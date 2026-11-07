@@ -5,7 +5,7 @@ category: "Production Ops"
 tools: ["Ontime", "MCP"]
 difficulty: Intermediate
 source_url: https://docs.getontime.no/features/mcp-server/
-summary: "Ontime's MCP server turns an agenda, email, script or spreadsheet into a rundown and can flag gaps, overlaps and automation risks, while timer transport stays with the operator."
+summary: "Ontime's MCP server turns an agenda, email, script, or spreadsheet into a rundown and flags gaps and overlaps. Timer transport stays with the operator."
 ---
 
 ## What it does

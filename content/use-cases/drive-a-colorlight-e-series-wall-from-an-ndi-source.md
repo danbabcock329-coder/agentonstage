@@ -6,7 +6,7 @@ tools: ["NDI", "Colorlight", "Raspberry Pi"]
 difficulty: Advanced
 source_url: https://github.com/quadjojo/ndi2colorlight
 labels: ["Experimental"]
-summary: "ndi2colorlight 0.1 pulls an NDI 6 source and paints a Colorlight E-series card with raw Ethernet. The author tested an E120 at 384×128 and says the protocol is reverse-engineered."
+summary: "ndi2colorlight 0.1 paints a Colorlight E-series card from NDI 6 over raw Ethernet. Tested on an E120 at 384×128. The protocol is reverse-engineered."
 ---
 
 ## What it does
