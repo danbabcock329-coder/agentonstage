@@ -6,7 +6,7 @@ tools: ["HeavyM", "OSC"]
 difficulty: Intermediate
 source_url: https://help.heavym.net/hc/en-us/articles/11763711559058-OSC-API-Pro
 labels: ["Commercial product"]
-summary: "HeavyM Pro publishes default OSC addresses for master opacity, sequence play, and timeline cues. Turn OSC Control on and send those addresses to the incoming port you chose."
+summary: "HeavyM Pro publishes OSC for master opacity, sequence play, and timeline cues. Turn OSC Control on and send those addresses to the incoming port you chose."
 ---
 
 ## What it does

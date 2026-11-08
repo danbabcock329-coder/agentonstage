@@ -6,7 +6,7 @@ tools: ["7thSense Delta", "TCP", "OSC"]
 difficulty: Intermediate
 source_url: https://portal.7thsense.one/user-guides/resources/ExternalControlHelp.html
 labels: ["Commercial product"]
-summary: "DeltaServer takes English external-control commands over TCP or UDP. PLAY starts the show, CUE waits, and GOTOMARKER jumps. OSC /transport/play maps to the same PLAY command."
+summary: "DeltaServer takes English commands over TCP or UDP. PLAY starts the show, CUE waits, and GOTOMARKER jumps. OSC /transport/play maps to PLAY."
 ---
 
 ## What it does

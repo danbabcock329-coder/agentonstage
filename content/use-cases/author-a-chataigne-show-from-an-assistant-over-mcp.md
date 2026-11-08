@@ -6,7 +6,7 @@ tools: ["Chataigne", "MCP", "Claude Code"]
 difficulty: Advanced
 source_url: https://benjamin.kuperberg.fr/chataigne/releases/changelog.html
 labels: ["Experimental"]
-summary: "Chataigne 1.10.5b5 adds opt-in MCP connections and a dockable assistant so Claude Code or Codex can author modules, states, presets, and timeline content, then control playback."
+summary: "Chataigne 1.10.5b5 adds opt-in MCP so Claude Code or Codex can author modules, states, presets, and timeline content, then control playback."
 ---
 
 ## What it does

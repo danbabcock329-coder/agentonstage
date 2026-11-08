@@ -5,7 +5,7 @@ category: "LED/Video"
 tools: ["CasparCG", "AMCP"]
 difficulty: Intermediate
 source_url: https://casparcg.com/docs/wiki/protocols/amcp-protocol
-summary: "CasparCG Server takes AMCP text on TCP 5250 in the sample config, so a client can list media, load a clip in the background, and play or clear a channel after VERSION and INFO."
+summary: "CasparCG Server takes AMCP text on TCP 5250 in the sample config. A client can list media, load a clip in the background, and play or clear a channel."
 ---
 
 ## What it does

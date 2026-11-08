@@ -6,7 +6,7 @@ tools: ["Promptbook", "ETC Eos", "QLab"]
 difficulty: Beginner
 source_url: https://applebytechnical.com/promptbook
 labels: ["Commercial product"]
-summary: "Promptbook is a digital prompt book for stage managers. It handles script markup, automatic standbys, live Eos and QLab cue tracking, and CSV export for import into ETC Eos."
+summary: "Promptbook is a stage-manager prompt book. It marks up the script, tracks live Eos and QLab cues, and exports CSV for import into ETC Eos."
 ---
 
 ## What it does

@@ -6,7 +6,7 @@ tools: ["Brompton Tessera", "HTTP"]
 difficulty: Intermediate
 source_url: https://www.bromptontech.com/online-help/Content/Tessera%20User%20Manual/03.%20Feature%20Topics/13.2.7%20-%20IP%20Control.htm
 labels: ["Commercial product"]
-summary: "Tessera IP Control is HTTP on port 80 and Telnet on port 23. Once it is enabled, a client can read the input and set brightness, source, blackout, freeze, and test patterns."
+summary: "Tessera IP Control is HTTP on port 80 and Telnet on port 23. Enable it, then read input and set brightness, source, blackout, freeze, and test patterns."
 ---
 
 ## What it does

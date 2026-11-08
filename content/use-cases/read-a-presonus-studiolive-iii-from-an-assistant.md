@@ -6,7 +6,7 @@ tools: ["PreSonus StudioLive", "MCP"]
 difficulty: Advanced
 source_url: https://github.com/zarfld/presonus-studiolive-mcp
 labels: ["Experimental"]
-summary: "presonus-studiolive-mcp lets an assistant read a StudioLive III over the UC Surface port. Writes stay off unless you opt in, and v0.1 only claims a channel-mute write on a 32SC."
+summary: "presonus-studiolive-mcp reads a StudioLive III on the UC Surface port. Writes stay off unless you opt in. v0.1 only claims a channel-mute write on a 32SC."
 ---
 
 ## What it does
