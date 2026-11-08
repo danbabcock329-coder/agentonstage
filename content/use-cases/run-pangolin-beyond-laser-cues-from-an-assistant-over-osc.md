@@ -5,7 +5,7 @@ category: "Lighting"
 tools: ["Pangolin BEYOND", "OSC", "MCP"]
 difficulty: Advanced
 source_url: https://github.com/drohi-r/beyond-mcp
-summary: "An MCP server sends Pangolin BEYOND cues, zones, brightness and safety limiters over OSC, with lab, show-safe and read-only profiles in front of a fire-and-forget laser output."
+summary: "An MCP server sends Pangolin BEYOND cues, zones, brightness, and safety limiters over OSC, with lab, show-safe, and read-only profiles."
 ---
 
 ## What it does

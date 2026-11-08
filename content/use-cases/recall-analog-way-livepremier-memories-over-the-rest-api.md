@@ -6,7 +6,7 @@ tools: ["Analog Way LivePremier", "HTTP"]
 difficulty: Intermediate
 source_url: https://github.com/bitfocus/companion-module-analogway-livepremier
 labels: ["Commercial product"]
-summary: "LivePremier's REST API on port 80 recalls a screen memory, sets a layer source, and takes preview to program. The Companion module sends those calls and does not read them back."
+summary: "LivePremier REST on port 80 recalls a screen memory, sets a layer source, and takes preview to program. Companion sends them and does not read them back."
 ---
 
 ## What it does
