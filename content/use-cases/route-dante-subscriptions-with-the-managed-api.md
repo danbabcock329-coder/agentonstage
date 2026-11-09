@@ -6,7 +6,7 @@ tools: ["Dante Domain Manager", "Dante Director", "GraphQL"]
 difficulty: Intermediate
 source_url: https://www.getdante.com/products/network-management/dante-managed-api/
 labels: ["Commercial product"]
-summary: "Dante Domain Manager and Dante Director expose a GraphQL API that lists domains and devices, enrolls them, and sets channel subscriptions without opening Dante Controller."
+summary: "Dante Domain Manager and Dante Director expose a GraphQL API that lists devices, enrolls them, and sets channel subscriptions."
 ---
 
 ## What it does

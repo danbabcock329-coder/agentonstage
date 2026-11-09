@@ -6,7 +6,7 @@ tools: ["TouchDesigner", "MCP", "coding agents"]
 difficulty: Intermediate
 source_url: https://github.com/TouchDesigner/TDMCP
 labels: ["Experimental"]
-summary: "Derivative's beta TDMCP runs inside a TouchDesigner project at http://127.0.0.1:13316/mcp and gives a coding agent 26 tools to create operators and inspect the live session."
+summary: "Derivative's beta TDMCP runs in a TouchDesigner project at 127.0.0.1:13316 and gives a coding agent 26 tools to edit the live session."
 ---
 
 ## What it does

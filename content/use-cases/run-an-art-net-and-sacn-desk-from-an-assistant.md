@@ -6,7 +6,7 @@ tools: ["Art-Net", "sACN", "DMX", "MCP", "QLC+"]
 difficulty: Advanced
 source_url: https://github.com/bawaaaaah/light-mcp-server
 labels: ["Experimental"]
-summary: "light-mcp-server 0.1.0 is a v0 Art-Net 4 and sACN desk, up to 16 universes, with the same command layer for the web UI, MIDI, OSC and an MCP client, plus show safety rules."
+summary: "light-mcp-server 0.1.0 is a v0 Art-Net 4 and sACN desk for up to 16 universes, shared by the web UI, MIDI, OSC, and an MCP client."
 ---
 
 ## What it does
