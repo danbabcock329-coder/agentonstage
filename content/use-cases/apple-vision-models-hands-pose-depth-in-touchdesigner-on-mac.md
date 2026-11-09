@@ -5,7 +5,7 @@ category: "TouchDesigner"
 tools: ["TouchDesigner", "Apple Silicon"]
 difficulty: Intermediate
 source_url: https://github.com/ojrgb/appletd
-summary: "appletd.tox runs Apple Vision hand, pose and depth models inside TouchDesigner on Apple Silicon. Drop it in, wait until Installstate reads Installed, then switch Active on."
+summary: "appletd.tox runs Apple Vision hand, pose, and depth models in TouchDesigner on Apple Silicon. Wait until Installstate reads Installed."
 ---
 
 ## What it does

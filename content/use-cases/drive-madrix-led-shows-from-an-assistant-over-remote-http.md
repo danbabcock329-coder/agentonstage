@@ -5,7 +5,7 @@ category: "LED/Video"
 tools: ["MADRIX", "MCP"]
 difficulty: Advanced
 source_url: https://github.com/drohi-r/madrix-mcp
-summary: "An MCP server that talks to MADRIX over its Remote HTTP interface for storage, cue lists, timelines, groups, layers and output, with lab, show-safe and read-only profiles."
+summary: "An MCP server talks to MADRIX over Remote HTTP for storage, cue lists, timelines, groups, and output, with lab, show-safe, and read-only profiles."
 ---
 
 ## What it does

@@ -5,7 +5,7 @@ category: "LED/Video"
 tools: ["Mitti", "OSC"]
 difficulty: Intermediate
 source_url: https://imimot.com/help/mitti/external-controls/osc-udp-controls
-summary: "Mitti listens on UDP 51000, starts the playlist with /mitti/play, and addresses a cue by number, by a six-character ID, or with current, next, previous, all, and selected."
+summary: "Mitti listens on UDP 51000. /mitti/play starts the playlist. Address a cue by number, by a six-character ID, or by current, next, or previous."
 ---
 
 ## What it does

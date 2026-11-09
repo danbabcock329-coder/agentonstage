@@ -6,7 +6,7 @@ tools: ["ChamSys MagicQ", "MCP"]
 difficulty: Advanced
 source_url: https://github.com/ssalinas/MagicQ-MCP
 labels: ["Experimental"]
-summary: "MagicQ-MCP sends ChamSys Remote Ethernet Protocol commands so an assistant can run playbacks, set channels and record programmer looks on a MagicQ console or on MagicQ PC."
+summary: "MagicQ-MCP sends ChamSys remote Ethernet commands so an assistant can run playbacks, set channels, and record looks on MagicQ."
 ---
 
 ## What it does

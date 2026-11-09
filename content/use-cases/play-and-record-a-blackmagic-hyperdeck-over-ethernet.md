@@ -5,7 +5,7 @@ category: "LED/Video"
 tools: ["Blackmagic HyperDeck"]
 difficulty: Intermediate
 source_url: https://documents.blackmagicdesign.com/DeveloperManuals/HyperDeckEthernetProtocol.pdf
-summary: "HyperDeck recorders with Ethernet take text commands on TCP 9993, so a client can list clips, arm a play range, and start playback or record once remote control is enabled."
+summary: "HyperDeck recorders with Ethernet take text commands on TCP 9993. A client can list clips, arm a range, and start playback or record."
 ---
 
 ## What it does

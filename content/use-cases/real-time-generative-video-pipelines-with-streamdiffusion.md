@@ -5,7 +5,7 @@ category: "LED/Video"
 tools: ["StreamDiffusion", "NVIDIA GPU"]
 difficulty: Advanced
 source_url: https://github.com/cumulo-autumn/StreamDiffusion
-summary: "StreamDiffusion is the real-time diffusion pipeline many live-visual tools wrap. It targets high-VRAM NVIDIA GPUs, and the README's benchmarks are on RTX 4090-class cards."
+summary: "StreamDiffusion is the real-time diffusion pipeline many live-visual tools wrap. It targets high-VRAM NVIDIA GPUs such as RTX 4090-class cards."
 ---
 
 ## What it does
