@@ -6,7 +6,7 @@ tools: ["Crestron 4-Series", "MCP"]
 difficulty: Intermediate
 source_url: https://github.com/SolutionAVAutomation/mcp-for-crestron-client
 labels: ["Commercial product"]
-summary: "MCP for Crestron's free client connects an assistant to a licensed 4-Series processor so it can discover rooms and set, pulse or ramp the devices the program exposes."
+summary: "MCP for Crestron's free client connects an assistant to a licensed 4-Series processor so it can discover rooms and set, pulse, or ramp devices."
 ---
 
 ## What it does

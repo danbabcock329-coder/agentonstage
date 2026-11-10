@@ -5,7 +5,7 @@ category: "Audio"
 tools: ["Meyer Sound Spacemap Go", "OSC"]
 difficulty: Intermediate
 source_url: https://docs.meyersound.com/products/en/user-guide---spacemap-go.html
-summary: "Spacemap Go accepts general-purpose OSC on UDP 38033 to move a channel panner, set level and spread, run a trajectory, and recall a snapshot by its External Recall ID."
+summary: "Spacemap Go accepts general-purpose OSC on UDP 38033 to move a channel panner, set level and spread, and recall a snapshot by its External Recall ID."
 ---
 
 ## What it does

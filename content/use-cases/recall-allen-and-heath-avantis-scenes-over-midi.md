@@ -5,7 +5,7 @@ category: "Audio"
 tools: ["Allen & Heath Avantis", "MIDI"]
 difficulty: Advanced
 source_url: https://support.allen-heath.com/hc/en-gb/articles/45146889174801-Avantis-MIDI-TCP-IP-Protocol
-summary: "Avantis firmware V2.0 and later accepts MIDI over TCP port 51325, covering faders, mutes, strip names, and recall of one of 500 scenes from a single client connection."
+summary: "Avantis firmware V2.0 and later accepts MIDI over TCP port 51325, covering faders, mutes, strip names, and recall of one of 500 scenes."
 ---
 
 ## What it does

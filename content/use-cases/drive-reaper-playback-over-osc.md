@@ -6,7 +6,7 @@ tools: ["REAPER", "OSC"]
 difficulty: Intermediate
 source_url: https://www.reaper.fm/sdk/osc/osc.php
 labels: ["Commercial product"]
-summary: "REAPER's default OSC pattern file plays, stops, and mutes tracks. Add an OSC control surface, then send /play or /track/3/mute 1 to the port REAPER is listening on."
+summary: "REAPER's default OSC pattern file plays, stops, and mutes tracks. Add an OSC control surface, then send /play or /track/3/mute 1."
 ---
 
 ## What it does

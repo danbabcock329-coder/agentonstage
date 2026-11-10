@@ -6,7 +6,7 @@ tools: ["Unilighter", "MCP", "Art-Net", "sACN"]
 difficulty: Intermediate
 source_url: https://unilighter.cc/info/docs/mcp
 labels: ["Commercial product"]
-summary: "Unilighter Desktop serves MCP only on 127.0.0.1:3847. With Pro, four tools patch fixtures, store scenes, and write a priority-100 manual look on the project that is open."
+summary: "Unilighter Desktop serves MCP only on 127.0.0.1:3847. With Pro, four tools patch fixtures, store scenes, and write a priority-100 manual look."
 ---
 
 ## What it does

@@ -6,7 +6,7 @@ tools: ["Sennheiser EW-DX", "SSCv2"]
 difficulty: Intermediate
 source_url: https://docs.cloud.sennheiser.com/en-us/api-docs/api-docs/sound-control-protocol.html
 labels: ["Commercial product"]
-summary: "EW-DX receivers on firmware 4.0 or newer can expose SSCv2 over HTTPS on port 443. After Control Cockpit enables it, a client reads /api/device/identity with the api user."
+summary: "EW-DX receivers on firmware 4.0 or newer expose SSCv2 over HTTPS on port 443. After Control Cockpit enables it, a client reads /api/device/identity."
 ---
 
 ## What it does

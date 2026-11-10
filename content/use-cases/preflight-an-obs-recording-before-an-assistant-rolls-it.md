@@ -5,7 +5,7 @@ category: "LED/Video"
 tools: ["OBS Studio", "obs-websocket", "MCP"]
 difficulty: Intermediate
 source_url: https://github.com/Tom-R-Main/OBS-MCP
-summary: "OBS MCP exposes the OBS WebSocket v5 surface, including a recording preflight and a short checked take, and can start in a read-only mode that refuses every write."
+summary: "OBS MCP exposes the OBS WebSocket v5 surface, including a recording preflight and a short checked take, and can start in a read-only mode."
 ---
 
 ## What it does

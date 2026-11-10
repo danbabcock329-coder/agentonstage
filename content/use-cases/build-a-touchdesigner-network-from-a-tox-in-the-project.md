@@ -5,7 +5,7 @@ category: "TouchDesigner"
 tools: ["TouchDesigner", "MCP"]
 difficulty: Intermediate
 source_url: https://github.com/johnsabath/touchdesigner-mcp
-summary: "Drop td_mcp_server.tox into a TouchDesigner 2024 project and an assistant can create operators, run Python, and grab a PNG, GIF or MP4 of the output on port 9988."
+summary: "Drop td_mcp_server.tox into a TouchDesigner 2024 project and an assistant can create operators, run Python, and grab a PNG of the output on port 9988."
 ---
 
 ## What it does

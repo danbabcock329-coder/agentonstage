@@ -7,7 +7,7 @@ difficulty: Intermediate
 tested_on_rig: "2026-10-19"
 rig: "a Chauvet RGBW par at DMX address 1, driven by an ENTTEC DMX USB Pro on a Windows laptop (COM3)"
 source_url: https://www.enttec.com/
-summary: "A small, no-dependency MCP server let Claude Desktop set colors on a real Chauvet RGBW par through an ENTTEC DMX USB Pro, with set_color, set_rgbw and blackout tools."
+summary: "A no-dependency MCP server let Claude Desktop set colors on a real Chauvet RGBW par through an ENTTEC DMX USB Pro, with set_color, set_rgbw, and blackout."
 rig_photos:
   - src: /rig/2026-10-19/rgbw-par-red-dmx.jpg
     alt: "Chauvet RGBW par lit red, driven over DMX from an ENTTEC DMX USB Pro"

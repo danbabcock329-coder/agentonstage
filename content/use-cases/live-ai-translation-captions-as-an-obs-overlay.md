@@ -5,7 +5,7 @@ category: "LED/Video"
 tools: ["OBS", "speech AI"]
 difficulty: Beginner
 source_url: https://github.com/arvindjuneja/subai
-summary: "SubAI runs a local caption and translation panel at http://127.0.0.1:3000. Set the pipeline to whisper, choose languages, and add the OBS overlay from the Monitor tab."
+summary: "SubAI runs a local caption and translation panel at http://127.0.0.1:3000. Set the pipeline to whisper, then add the OBS overlay from the Monitor tab."
 ---
 
 ## What it does

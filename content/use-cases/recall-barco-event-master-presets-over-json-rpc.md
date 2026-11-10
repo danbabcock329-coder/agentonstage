@@ -6,7 +6,7 @@ tools: ["Barco Event Master", "Barco PDS-4K", "JSON-RPC"]
 difficulty: Intermediate
 source_url: https://www.barco.com/manuals/R5912621/fajn36fk5hkc.html
 labels: ["Commercial product"]
-summary: "Event Master processors and the PDS-4K take JSON-RPC POSTs on port 9999, so a client can list presets and recall one to preview or program by id, serial, or name."
+summary: "Event Master processors and the PDS-4K take JSON-RPC POSTs on port 9999, so a client can list presets and recall one by id, serial, or name."
 ---
 
 ## What it does

@@ -6,7 +6,7 @@ tools: ["NovaStar COEX", "HTTP"]
 difficulty: Intermediate
 source_url: https://api.coex.novastar.tech/en/doc-7530630
 labels: ["Commercial product"]
-summary: "NovaStar's COEX HTTP reference reads screen and canvas IDs, then sets brightness, blackout or freeze, and applies a preset. VMP must not be holding the processor."
+summary: "NovaStar's COEX HTTP reference reads screen and canvas IDs, then sets brightness, blackout or freeze, and applies a preset."
 ---
 
 ## What it does

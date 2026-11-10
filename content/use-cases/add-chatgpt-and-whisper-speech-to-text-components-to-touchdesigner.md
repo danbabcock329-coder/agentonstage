@@ -5,7 +5,7 @@ category: "TouchDesigner"
 tools: ["TouchDesigner", "OpenAI Whisper", "ChatGPT"]
 difficulty: Beginner
 source_url: https://derivative.ca/community-post/tutorial/custom-chatgpt-and-whisperspeech-text-plugins-touchdesigner/67446
-summary: "A Derivative community tutorial by blankensmithing on two components that run Whisper speech-to-text and ChatGPT inside TouchDesigner with only an OpenAI API key."
+summary: "A Derivative tutorial by blankensmithing on two components that run Whisper speech-to-text and ChatGPT inside TouchDesigner with an OpenAI API key."
 ---
 
 ## What it does

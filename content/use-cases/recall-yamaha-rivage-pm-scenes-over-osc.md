@@ -6,7 +6,7 @@ tools: ["Yamaha RIVAGE PM", "OSC"]
 difficulty: Intermediate
 source_url: https://download.yamaha.com/files/tcm:39-1407565
 labels: ["Commercial product"]
-summary: "Yamaha's RIVAGE PM OSC spec, for firmware V5.00 and later, recalls scene 5.00 on UDP port 49900. The input 1 fader example uses index 1/1 and sends -32768 for -infinity."
+summary: "Yamaha's RIVAGE PM OSC spec, for firmware V5.00 and later, recalls scene 5.00 on UDP port 49900. The input 1 fader example sends -32768 for -infinity."
 ---
 
 ## What it does

@@ -6,7 +6,7 @@ tools: ["Shure MXA", "Shure ULX-D", "Shure QLX-D", "Dante", "MCP"]
 difficulty: Intermediate
 source_url: https://github.com/lutztalk/shure-mcp
 labels: ["Experimental"]
-summary: "shure-mcp lets an assistant read fleet health, mutes, gains, MXA talker positions, Dante status and wireless battery and RF on Shure devices you list in a local config."
+summary: "shure-mcp lets an assistant read fleet health, mutes, gains, MXA talker positions, Dante status, and wireless battery and RF from a local config."
 ---
 
 ## What it does

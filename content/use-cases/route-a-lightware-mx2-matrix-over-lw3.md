@@ -6,7 +6,7 @@ tools: ["Lightware MX2", "LW3", "TCP"]
 difficulty: Intermediate
 source_url: https://assets.prod.pim.lightware.com/assets/File-Downloads/Guides-and-Manuals/User-Manual/HTML/MX2_Standalone_series/MX2_Standalone_Series_UserManual.html
 labels: ["Commercial product"]
-summary: "The MX2 Standalone Series manual routes video on TCP port 6107. CALL /MEDIA/XP/VIDEO:switch(I4:O1) ties input 4 to output 1, and the example response is mO with =OK."
+summary: "The MX2 Standalone Series manual routes video on TCP port 6107. CALL /MEDIA/XP/VIDEO:switch(I4:O1) ties input 4 to output 1 and returns mO =OK."
 ---
 
 ## What it does

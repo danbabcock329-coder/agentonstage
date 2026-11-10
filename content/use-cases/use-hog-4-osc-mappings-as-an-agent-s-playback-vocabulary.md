@@ -5,7 +5,7 @@ category: "Lighting"
 tools: ["Hog 4", "OSC"]
 difficulty: Intermediate
 source_url: https://www.etcconnect.com/webdocs/Controls/HOG/HTML/en/sect-osc_mappings.htm
-summary: "Hog 4 OS publishes OSC paths for cuelists, scenes, macros, front-panel keys, and the grand master, which is the command list an agent should send instead of guessing."
+summary: "Hog 4 OS publishes OSC paths for cuelists, scenes, macros, front-panel keys, and the grand master. That list is the command set to send."
 ---
 
 ## What it does
