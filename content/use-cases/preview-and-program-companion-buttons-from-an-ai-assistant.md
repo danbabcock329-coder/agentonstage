@@ -5,7 +5,7 @@ category: "Show Control"
 tools: ["Bitfocus Companion", "Stream Deck", "MCP"]
 difficulty: Intermediate
 source_url: https://github.com/drohi-r/companion-mcp
-summary: "A 53-tool MCP server lets an assistant read, preview, style and press Bitfocus Companion buttons, with snapshots and rollback before a page goes onto a Stream Deck."
+summary: "A 53-tool MCP server lets an assistant read, preview, style, and press Bitfocus Companion buttons, with snapshots and rollback before a page goes live."
 ---
 
 ## What it does

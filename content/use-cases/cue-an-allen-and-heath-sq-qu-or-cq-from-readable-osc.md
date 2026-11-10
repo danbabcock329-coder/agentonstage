@@ -6,7 +6,7 @@ tools: ["Allen & Heath SQ", "Allen & Heath Qu", "Allen & Heath CQ", "OSC"]
 difficulty: Intermediate
 source_url: https://github.com/h-allen-adams/sqOSC
 labels: ["Experimental"]
-summary: "sqOSC turns readable OSC into the NRPN MIDI an Allen & Heath SQ, Qu, or CQ expects, so a cue stack can recall scenes, mutes, and levels without hand-building MIDI."
+summary: "sqOSC turns readable OSC into the NRPN MIDI an Allen & Heath SQ, Qu, or CQ expects, so a cue stack can recall scenes, mutes, and levels."
 ---
 
 ## What it does

@@ -5,7 +5,7 @@ category: "LED/Video"
 tools: ["BrightSign", "BSN.cloud", "MCP"]
 difficulty: Intermediate
 source_url: https://github.com/BrightDevelopers/BrightDev
-summary: "BrightSign's BrightDeveloper MCP server feeds player and cloud docs to a coding assistant so it can draft BrightScript or HTML apps you then test on a real player."
+summary: "BrightSign's BrightDeveloper MCP server feeds player and cloud docs to a coding assistant so it can draft BrightScript or HTML apps for a real player."
 ---
 
 ## What it does

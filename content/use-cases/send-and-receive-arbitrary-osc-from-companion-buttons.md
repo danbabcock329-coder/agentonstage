@@ -5,7 +5,7 @@ category: "Show Control"
 tools: ["Bitfocus Companion", "OSC"]
 difficulty: Beginner
 source_url: https://bitfocus.io/connections/generic-osc
-summary: "Companion's Generic OSC connection sends integers, floats, strings, blobs and multi-argument messages to any OSC device, and exposes received messages as variables."
+summary: "Companion's Generic OSC connection sends integers, floats, strings, blobs, and multi-argument messages, and exposes received messages as variables."
 ---
 
 ## What it does

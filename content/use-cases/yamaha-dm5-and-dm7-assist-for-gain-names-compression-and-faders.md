@@ -6,7 +6,7 @@ tools: ["Yamaha DM5", "Yamaha DM7"]
 difficulty: Beginner
 source_url: https://usa.yamaha.com/products/proaudio/mixers/dm5/index.html
 labels: ["Commercial product"]
-summary: "HA, Naming, Comp and Fader Assist on the Yamaha DM5 and DM7 suggest head-amp gain, channel names, compressor settings and a starting fader balance from the input signal."
+summary: "HA, Naming, Comp and Fader Assist on the Yamaha DM5 and DM7 suggest gain, names, compression, and a starting fader balance from the input signal."
 ---
 
 ## What it does

@@ -6,7 +6,7 @@ tools: ["Smaart", "WebSocket"]
 difficulty: Intermediate
 source_url: https://www.rationalacoustics.com/pages/integration-with-3rd-party-products
 labels: ["Commercial product"]
-summary: "Smaart's API is JSON over a WebSocket. Turn it on in Preferences and another program can read spectrum and transfer-function data and control measurement parameters."
+summary: "Smaart's API is JSON over a WebSocket. Turn it on in Preferences to read spectrum and transfer-function data and control measurement parameters."
 ---
 
 ## What it does

@@ -5,7 +5,7 @@ category: "Lighting"
 tools: ["ChamSys QuickQ", "OSC"]
 difficulty: Intermediate
 source_url: https://docs.chamsys.co.uk/quickq/13.0/manual/touchosc.html
-summary: "From QuickQ 6.0, OSC receives on port 8000 and transmits on 9000. /pb/1/go runs playback 1, and /pb/1 takes a float from 0 to 1 or an integer from 0 to 100 for the fader."
+summary: "From QuickQ 6.0, OSC receives on port 8000 and transmits on 9000. /pb/1/go runs playback 1. /pb/1 takes a float from 0 to 1 for the fader."
 ---
 
 ## What it does

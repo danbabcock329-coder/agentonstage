@@ -5,7 +5,7 @@ category: "LED/Video"
 tools: ["disguise", "REST", "MCP"]
 difficulty: Advanced
 source_url: https://github.com/medcelerate/disguise-mcp
-summary: "An MCP service for disguise Designer's REST API. An assistant can drive timeline transport, read show state, and call Designer endpoints. MCP listens on port 8090."
+summary: "An MCP service for disguise Designer's REST API drives timeline transport and reads show state. The MCP listener is on port 8090."
 ---
 
 ## What it does
