@@ -1,5 +1,5 @@
 ---
-title: "Tested: Claude drives an RGBW par through an ENTTEC DMX USB Pro"
+title: "Tested: Claude drives an RGBW par through ENTTEC"
 slug: tested-drive-an-rgbw-par-from-claude-through-an-enttec-dmx-usb-pro
 category: "Lighting"
 tools: ["ENTTEC DMX USB Pro", "Chauvet RGBW par", "Claude Desktop", "MCP", "DMX"]

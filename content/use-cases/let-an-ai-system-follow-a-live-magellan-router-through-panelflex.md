@@ -1,5 +1,5 @@
 ---
-title: "Let an AI system follow a live Magellan router through PanelFlex"
+title: "Follow a live Magellan router through PanelFlex"
 slug: let-an-ai-system-follow-a-live-magellan-router-through-panelflex
 category: "Show Control"
 tools: ["Magellan PanelFlex", "Magellan Control System", "MCP"]

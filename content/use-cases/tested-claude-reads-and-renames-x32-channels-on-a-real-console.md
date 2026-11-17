@@ -1,5 +1,5 @@
 ---
-title: "Tested: Claude reads and renames channels on a real Behringer X32"
+title: "Tested: Claude reads and renames a real X32"
 slug: tested-claude-reads-and-renames-x32-channels-on-a-real-console
 category: "Audio"
 tools: ["Behringer X32", "Claude Desktop", "MCP", "OSC"]

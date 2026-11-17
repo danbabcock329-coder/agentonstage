@@ -1,5 +1,5 @@
 ---
-title: "Set up and inspect an AV Stumpfl Pixera show from an assistant"
+title: "Set up and inspect a Pixera show from an assistant"
 slug: set-up-and-inspect-an-av-stumpfl-pixera-show-from-an-assistant
 category: "LED/Video"
 tools: ["Pixera", "MCP"]

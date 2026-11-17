@@ -1,5 +1,5 @@
 ---
-title: "Build spatial audio show files by conversation with TiMax MCP"
+title: "Build spatial audio show files with TiMax MCP"
 slug: build-spatial-audio-show-files-by-conversation-with-timax-mcp
 category: "Audio"
 tools: ["TiMax SoundHub", "MCP", "Claude Desktop", "d&b ArrayCalc", "Martin Audio DISPLAY 3", "EASE"]

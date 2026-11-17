@@ -1,5 +1,5 @@
 ---
-title: "Set a Blackmagic SmartView border and brightness over Ethernet"
+title: "Set a Blackmagic SmartView border and brightness"
 slug: set-a-blackmagic-smartview-border-and-brightness-over-ethernet
 category: "LED/Video"
 tools: ["Blackmagic SmartView", "TCP"]

@@ -1,5 +1,5 @@
 ---
-title: "Let an AI agent build and edit TouchDesigner networks via MCP"
+title: "Let an AI agent build TouchDesigner networks via MCP"
 slug: let-an-ai-agent-build-and-edit-touchdesigner-networks-via-mcp
 category: "TouchDesigner"
 tools: ["TouchDesigner", "MCP", "Claude/Cursor"]

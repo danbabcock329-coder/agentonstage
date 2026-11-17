@@ -1,5 +1,5 @@
 ---
-title: "Stream images, video and audio from ComfyUI into TouchDesigner"
+title: "Stream ComfyUI images, video and audio into TouchDesigner"
 slug: stream-images-video-and-audio-from-comfyui-into-touchdesigner
 category: "TouchDesigner"
 tools: ["ComfyUI", "TouchDesigner"]

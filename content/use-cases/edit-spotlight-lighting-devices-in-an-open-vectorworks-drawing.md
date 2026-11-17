@@ -1,5 +1,5 @@
 ---
-title: "Edit Spotlight lighting devices in an open Vectorworks drawing"
+title: "Edit Spotlight lighting devices in Vectorworks"
 slug: edit-spotlight-lighting-devices-in-an-open-vectorworks-drawing
 category: "Lighting"
 tools: ["Vectorworks Spotlight", "MCP"]

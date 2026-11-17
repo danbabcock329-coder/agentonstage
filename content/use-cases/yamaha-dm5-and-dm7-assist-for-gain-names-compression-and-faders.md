@@ -1,5 +1,5 @@
 ---
-title: "Yamaha DM5 and DM7 Assist for gain, names, compression and faders"
+title: "Yamaha DM5 and DM7 Assist for gain, names and faders"
 slug: yamaha-dm5-and-dm7-assist-for-gain-names-compression-and-faders
 category: "Audio"
 tools: ["Yamaha DM5", "Yamaha DM7"]

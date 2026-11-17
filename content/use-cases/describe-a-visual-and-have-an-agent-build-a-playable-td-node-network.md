@@ -1,5 +1,5 @@
 ---
-title: "Describe a visual and have an agent build a playable TD node network"
+title: "Have an agent build a playable TouchDesigner network"
 slug: describe-a-visual-and-have-an-agent-build-a-playable-td-node-network
 category: "TouchDesigner"
 tools: ["TouchDesigner", "MCP", "Claude/Cursor/Codex"]

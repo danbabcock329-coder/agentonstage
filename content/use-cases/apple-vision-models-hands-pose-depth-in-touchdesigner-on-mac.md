@@ -1,5 +1,5 @@
 ---
-title: "Apple Vision models (hands, pose, depth) in TouchDesigner on Mac"
+title: "Apple Vision hands, pose, and depth in TouchDesigner"
 slug: apple-vision-models-hands-pose-depth-in-touchdesigner-on-mac
 category: "TouchDesigner"
 tools: ["TouchDesigner", "Apple Silicon"]

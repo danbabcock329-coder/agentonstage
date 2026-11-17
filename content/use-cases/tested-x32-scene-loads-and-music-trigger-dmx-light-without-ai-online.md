@@ -1,5 +1,5 @@
 ---
-title: "Tested: X32 scene loads and music trigger a DMX light, no AI or internet needed"
+title: "Tested: X32 scene loads and music trigger a DMX light"
 slug: tested-x32-scene-loads-and-music-trigger-dmx-light-without-ai-online
 category: "Show Control"
 tools: ["Behringer X32", "ENTTEC DMX USB Pro", "Chauvet RGBW par", "Node.js", "OSC", "DMX"]

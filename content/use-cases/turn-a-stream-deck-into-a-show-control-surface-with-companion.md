@@ -1,5 +1,5 @@
 ---
-title: "Turn a Stream Deck into a show-control surface with Companion"
+title: "Turn a Stream Deck into a show surface with Companion"
 slug: turn-a-stream-deck-into-a-show-control-surface-with-companion
 category: "Show Control"
 tools: ["Bitfocus Companion", "Stream Deck"]

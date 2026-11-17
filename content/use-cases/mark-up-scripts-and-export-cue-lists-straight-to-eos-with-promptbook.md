@@ -1,5 +1,5 @@
 ---
-title: "Mark up scripts and export cue lists straight to Eos with Promptbook"
+title: "Mark up scripts and export Eos cue lists with Promptbook"
 slug: mark-up-scripts-and-export-cue-lists-straight-to-eos-with-promptbook
 category: "Production Ops"
 tools: ["Promptbook", "ETC Eos", "QLab"]

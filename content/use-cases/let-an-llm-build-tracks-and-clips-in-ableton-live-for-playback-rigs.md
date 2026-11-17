@@ -1,5 +1,5 @@
 ---
-title: "Let an LLM build tracks and clips in Ableton Live for playback rigs"
+title: "Let an LLM build tracks and clips in Ableton Live"
 slug: let-an-llm-build-tracks-and-clips-in-ableton-live-for-playback-rigs
 category: "Audio"
 tools: ["Ableton Live", "MCP"]

@@ -1,5 +1,5 @@
 ---
-title: "Control a Vizrt TriCaster from Claude with a local MCP server"
+title: "Control a Vizrt TriCaster from Claude over MCP"
 slug: control-a-vizrt-tricaster-from-claude-with-a-local-mcp-server
 category: "LED/Video"
 tools: ["Vizrt TriCaster", "MCP", "Claude Desktop"]

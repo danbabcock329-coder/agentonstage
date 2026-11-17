@@ -1,5 +1,5 @@
 ---
-title: "Build Resolume Arena and Wire shows with the official MCP servers"
+title: "Build Resolume Arena and Wire shows with official MCP"
 slug: build-resolume-arena-and-wire-shows-with-the-official-mcp-servers
 category: "LED/Video"
 tools: ["Resolume Arena", "Resolume Avenue", "Resolume Wire", "MCP"]
