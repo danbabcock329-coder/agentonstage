@@ -1,5 +1,5 @@
 ---
-title: "Draft BrightSign player apps with BrightSign's documentation MCP"
+title: "Draft BrightSign player apps with the documentation MCP"
 slug: draft-brightsign-player-apps-with-brightsign-s-documentation-mcp
 category: "LED/Video"
 tools: ["BrightSign", "BSN.cloud", "MCP"]

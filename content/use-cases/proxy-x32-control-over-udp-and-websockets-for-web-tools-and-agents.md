@@ -1,5 +1,5 @@
 ---
-title: "Proxy X32 control over UDP and WebSockets for web tools and agents"
+title: "Proxy X32 control over UDP and WebSockets"
 slug: proxy-x32-control-over-udp-and-websockets-for-web-tools-and-agents
 category: "Audio"
 tools: ["Behringer X32", "WebSocket", "UDP"]

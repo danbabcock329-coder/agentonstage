@@ -1,5 +1,5 @@
 ---
-title: "Connect DmxControlPro3 to an external assistant with the Agent API"
+title: "Connect DmxControlPro3 to an assistant with the Agent API"
 slug: connect-dmxcontrolpro3-to-an-external-assistant-with-the-agent-api
 category: "Lighting"
 tools: ["DmxControlPro3", "DMX", "OpenAPI"]

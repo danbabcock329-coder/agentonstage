@@ -1,5 +1,5 @@
 ---
-title: "Build, inspect and debug TouchDesigner projects with td-atlas"
+title: "Build and debug TouchDesigner projects with td-atlas"
 slug: build-inspect-and-debug-touchdesigner-projects-with-td-atlas
 category: "TouchDesigner"
 tools: ["TouchDesigner", "MCP", "Claude Code"]

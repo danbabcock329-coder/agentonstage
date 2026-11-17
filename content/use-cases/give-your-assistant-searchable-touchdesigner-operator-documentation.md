@@ -1,5 +1,5 @@
 ---
-title: "Give your assistant searchable TouchDesigner operator documentation"
+title: "Give an assistant searchable TouchDesigner operator docs"
 slug: give-your-assistant-searchable-touchdesigner-operator-documentation
 category: "TouchDesigner"
 tools: ["TouchDesigner", "MCP"]

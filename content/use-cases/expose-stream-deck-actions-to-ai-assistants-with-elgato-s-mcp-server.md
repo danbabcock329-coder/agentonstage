@@ -1,5 +1,5 @@
 ---
-title: "Expose Stream Deck actions to AI assistants with Elgato's MCP server"
+title: "Expose Stream Deck actions with Elgato's MCP server"
 slug: expose-stream-deck-actions-to-ai-assistants-with-elgato-s-mcp-server
 category: "Show Control"
 tools: ["Elgato Stream Deck 7.4+", "MCP", "Claude Desktop"]

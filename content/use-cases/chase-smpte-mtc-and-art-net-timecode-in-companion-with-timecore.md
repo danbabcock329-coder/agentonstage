@@ -1,5 +1,5 @@
 ---
-title: "Chase SMPTE, MTC and Art-Net timecode in Companion with TimeCore"
+title: "Chase SMPTE, MTC and Art-Net timecode with TimeCore"
 slug: chase-smpte-mtc-and-art-net-timecode-in-companion-with-timecore
 category: "Show Control"
 tools: ["Bitfocus Companion", "Visual Productions TimeCore", "Timecode"]

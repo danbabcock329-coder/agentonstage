@@ -1,5 +1,5 @@
 ---
-title: "Add ChatGPT and Whisper speech-to-text components to TouchDesigner"
+title: "Add ChatGPT and Whisper speech-to-text to TouchDesigner"
 slug: add-chatgpt-and-whisper-speech-to-text-components-to-touchdesigner
 category: "TouchDesigner"
 tools: ["TouchDesigner", "OpenAI Whisper", "ChatGPT"]

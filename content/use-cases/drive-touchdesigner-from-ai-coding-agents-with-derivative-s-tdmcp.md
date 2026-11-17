@@ -1,5 +1,5 @@
 ---
-title: "Drive TouchDesigner from AI coding agents with Derivative's TDMCP"
+title: "Drive TouchDesigner from coding agents with TDMCP"
 slug: drive-touchdesigner-from-ai-coding-agents-with-derivative-s-tdmcp
 category: "TouchDesigner"
 tools: ["TouchDesigner", "MCP", "coding agents"]

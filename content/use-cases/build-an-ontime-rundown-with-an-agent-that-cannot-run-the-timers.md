@@ -1,5 +1,5 @@
 ---
-title: "Build an Ontime rundown with an agent that cannot run the timers"
+title: "Build an Ontime rundown an agent cannot run"
 slug: build-an-ontime-rundown-with-an-agent-that-cannot-run-the-timers
 category: "Production Ops"
 tools: ["Ontime", "MCP"]

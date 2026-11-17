@@ -1,5 +1,5 @@
 ---
-title: "Drive a live TouchDesigner project from the terminal with td-cli"
+title: "Drive a live TouchDesigner project with td-cli"
 slug: drive-a-live-touchdesigner-project-from-the-terminal-with-td-cli
 category: "TouchDesigner"
 tools: ["TouchDesigner", "td-cli", "HTTP"]
