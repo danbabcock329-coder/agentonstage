@@ -36,7 +36,7 @@ Source: [OSCAR for TouchDesigner](https://www.createwithoscar.com/getting-starte
 [Drive Open Stage Control surfaces over OSC remote commands](/use-cases/drive-open-stage-control-surfaces-over-osc-remote-commands) is a different surface. This page is OSCAR's Parameter Rack, with the addresses and ports in the table above, aimed at an OSC In CHOP.
 
 ### Is this an agent that builds the network?
-[Drive TouchDesigner from coding agents with TDMCP](/use-cases/drive-touchdesigner-from-coding-agents-with-tdmcp) edits operators inside TouchDesigner. OSCAR does not. It publishes a control layout and sends OSC. The guide's optional `touchdesigner-parameter-rack.py` only builds the demo CHOPs: paste it into a Text DAT, set `OSCAR_IP`, and run it.
+[Drive TouchDesigner from coding agents with TDMCP](/use-cases/drive-touchdesigner-from-ai-coding-agents-with-derivative-s-tdmcp) edits operators inside TouchDesigner. OSCAR does not. It publishes a control layout and sends OSC. The guide's optional `touchdesigner-parameter-rack.py` only builds the demo CHOPs: paste it into a Text DAT, set `OSCAR_IP`, and run it.
 
 ### Which TouchDesigner build is the guide written for?
 The sketches are written for 2022.35320 or newer. The rack itself is an OSC sender to port 10000 plus, if you want the meters, an OSC Out CHOP to port 8880.
