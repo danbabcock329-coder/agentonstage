@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import fs from "fs";
 import path from "path";
 import { execFileSync } from "child_process";
-import { getAll, SITE_URL } from "@/lib/content";
+import { CATEGORY_HUBS, getAll, SITE_URL } from "@/lib/content";
 
 const STATIC_PAGES: { file: string; path: string; priority: number; changeFrequency: "weekly" | "monthly" }[] = [
   { file: "app/page.tsx", path: "", priority: 1, changeFrequency: "weekly" },
@@ -55,7 +55,29 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: page.priority,
     };
   });
-  const useCases: MetadataRoute.Sitemap = getAll().map((useCase) => {
+  const all = getAll();
+  const hubs: MetadataRoute.Sitemap = CATEGORY_HUBS.map((hub) => {
+    const stamps = all
+      .filter((useCase) => useCase.category === hub.name)
+      .map((useCase) => modified(dates, `content/use-cases/${useCase.slug}.md`))
+      .filter((stamp): stamp is Date => stamp instanceof Date);
+    const lastModified = stamps.reduce<Date | undefined>((max, stamp) => (!max || stamp > max ? stamp : max), undefined)
+      ?? modified(dates, "app/[hub]/page.tsx");
+    return {
+      url: `${SITE_URL}/${hub.slug}`,
+      ...(lastModified ? { lastModified } : {}),
+      changeFrequency: "weekly" as const,
+      priority: 0.8,
+    };
+  });
+  const rigModified = modified(dates, "app/rig/page.tsx");
+  const rig: MetadataRoute.Sitemap = [{
+    url: `${SITE_URL}/rig`,
+    ...(rigModified ? { lastModified: rigModified } : {}),
+    changeFrequency: "weekly",
+    priority: 0.6,
+  }];
+  const useCases: MetadataRoute.Sitemap = all.map((useCase) => {
     const lastModified = modified(dates, `content/use-cases/${useCase.slug}.md`);
     return {
       url: `${SITE_URL}/use-cases/${useCase.slug}`,
@@ -82,5 +104,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: page.priority,
     };
   });
-  return [...staticEntries, ...generated, ...useCases];
+  return [...staticEntries, ...hubs, ...rig, ...generated, ...useCases];
 }

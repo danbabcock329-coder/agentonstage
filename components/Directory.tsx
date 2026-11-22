@@ -1,15 +1,25 @@
 "use client";
-import { useState } from "react";
-type U={title:string;slug:string;category:string;tools:string[];difficulty:string;summary:string;labels?:string[];tested_on_rig?:string;rig_photos?:unknown};
-export default function Directory({items,categories}:{items:U[];categories:readonly string[]}){
-  const [q,setQ]=useState(""); const [cat,setCat]=useState("All");
-  const ql=q.toLowerCase();
-  const shown=items.filter(u=>(cat==="All"||u.category===cat)&&(u.title+u.summary+u.tools.join(" ")).toLowerCase().includes(ql));
+import { useEffect, useState } from "react";
+import UseCaseCard, { type CardItem } from "./UseCaseCard";
+
+export default function Directory({items,children}:{items:CardItem[];children:React.ReactNode}){
+  const [q,setQ]=useState("");
+  useEffect(()=>{
+    const fromUrl=new URLSearchParams(window.location.search).get("q")??"";
+    if(fromUrl) setQ(fromUrl);
+  },[]);
+  const ql=q.trim().toLowerCase();
+  const shown=ql?items.filter(item=>`${item.title} ${item.summary} ${item.tools.join(" ")} ${item.difficulty} ${item.category}`.toLowerCase().includes(ql)):items;
+  function update(value:string){
+    setQ(value);
+    const next=value.trim()?`/?q=${encodeURIComponent(value.trim())}`:"/";
+    window.history.replaceState(null,"",next);
+  }
   return (<>
-    <input aria-label="Search" placeholder="Search use cases, tools (X32, QLab, Resolume…)" value={q} onChange={e=>setQ(e.target.value)} style={{width:"60%"}}/>
-    <div>{["All",...categories].map(c=><button key={c} className={c===cat?"active":""} onClick={()=>setCat(c)}>{c}</button>)}</div>
+    <input className="search" type="search" aria-label="Search" placeholder="Search use cases, tools (X32, QLab, Resolume…)" value={q} onChange={e=>update(e.target.value)}/>
+    {ql?null:children}
+    <h2 id="directory">{ql?"Search results":"All use cases"}</h2>
     <p>{shown.length} use cases</p>
-    {shown.map(u=><div className="card" key={u.slug}><a href={`/use-cases/${u.slug}`}><strong>{u.title}</strong></a>
-      <p>{u.summary}</p>{u.tested_on_rig&&<span className="tag tested-badge">Tested on a real rig</span>}{(u.labels||[]).map(l=><span className={"tag label"} key={l}>{l}</span>)}<span className="tag">{u.category}</span><span className="tag">{u.difficulty}</span>{u.tools.map(t=><span className="tag" key={t}>{t}</span>)}</div>)}
+    {shown.map(item=><UseCaseCard key={item.slug} item={item}/>)}
   </>);
 }

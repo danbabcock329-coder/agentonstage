@@ -1,7 +1,7 @@
 import { getTested, FEED_PATH } from "@/lib/content";
 const title="Tested on a real rig";
 const description="AgentOnStage workflows run on real show hardware: a Behringer X32, an ENTTEC DMX USB Pro and an RGBW par, with photos from the bench.";
-export const metadata={title,description,alternates:{canonical:"/tested",types:{"application/feed+json":FEED_PATH}},openGraph:{type:"website",siteName:"AgentOnStage",url:"/tested",title,description},twitter:{card:"summary",title,description}};
+export const metadata={title,description,alternates:{canonical:"/tested",types:{"application/feed+json":FEED_PATH}},openGraph:{type:"website",siteName:"AgentOnStage",url:"/tested",title,description},twitter:{card:"summary_large_image",title,description}};
 export default function Tested(){
   const items=getTested();
   return (<><h1>Tested on a real rig</h1>
