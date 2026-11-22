@@ -6,7 +6,7 @@ tools: ["Ventuz Director", "WebSocket", "HTTP"]
 difficulty: Intermediate
 source_url: https://www.ventuz.com/support/help/latest/Director/DirectorRemoting.html
 labels: ["Commercial product"]
-summary: "Ventuz Director remoting listens on port 22404. show.open, show.cue, and show.take are JSON on the websocket or REST under DirectorRemoting_Service/1.0. Code 4 means no show is open."
+summary: "Ventuz Director remoting on port 22404 takes show.open, show.cue, and show.take as JSON under DirectorRemoting_Service/1.0. Code 4 means no show is open."
 ---
 
 ## What it does

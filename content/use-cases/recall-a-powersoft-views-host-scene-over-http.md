@@ -6,7 +6,7 @@ tools: ["Powersoft Views Host", "ArmoniaPlus", "HTTP"]
 difficulty: Intermediate
 source_url: https://audiobrains.com/data/powersoft/others/views-host_api_1.13.pdf
 labels: ["Commercial product"]
-summary: "Powersoft Views Host API Rev 1.13 recalls a scene with PUT /scene/active/{id}. ArmoniaPlusService serves it on port 40469. Zone gain is a linear value from 0 to 1."
+summary: "Powersoft Views Host Rev 1.13 recalls a scene with PUT /scene/active/{id}. ArmoniaPlus serves that API on port 40469. Zone gain is linear, from 0 to 1."
 ---
 
 ## What it does

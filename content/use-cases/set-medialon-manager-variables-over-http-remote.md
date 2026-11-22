@@ -6,7 +6,7 @@ tools: ["Medialon Manager", "HTTP"]
 difficulty: Intermediate
 source_url: https://portal.7thsense.one/medialon-help/mxmMedialonHTTPRemote.html
 labels: ["Commercial product"]
-summary: "Medialon HTTP Remote 6.7.2 serves published Manager variables on port 80. SETVARIABLES_XML writes one variable. GETVARIABLES_XML reads the published set back as XML."
+summary: "Medialon HTTP Remote 6.7.2 serves published Manager variables on port 80. SETVARIABLES_XML writes one. GETVARIABLES_XML reads them back as XML."
 ---
 
 ## What it does

@@ -6,7 +6,7 @@ tools: ["LynTec RPC", "HTTP"]
 difficulty: Intermediate
 source_url: https://lyntec.com/wp-content/uploads/pdfs/139-0498-01_RPC_Instructions.pdf
 labels: ["Commercial product"]
-summary: "LynTec RPC firmware 1.18a or later takes HTTP GET /p2.rpc. IPZ002=1 turns zone 2 on and IPB002=0 turns breaker 2 off. A bare GET returns breaker, zone, and event bits."
+summary: "LynTec RPC firmware 1.18a or later takes HTTP GET /p2.rpc. IPZ002=1 turns zone 2 on. A bare GET returns breaker, zone, and event bits."
 ---
 
 ## What it does

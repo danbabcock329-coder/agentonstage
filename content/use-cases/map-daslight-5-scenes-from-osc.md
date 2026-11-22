@@ -6,7 +6,7 @@ tools: ["Daslight 5", "OSC", "UDP"]
 difficulty: Intermediate
 source_url: https://storage.googleapis.com/nicolaudie-us-litterature/Release/daslight_5_manual_en.pdf
 labels: ["Commercial product"]
-summary: "Daslight 5 learns an OSC message onto a scene, fader, or dial. The v1.4 manual uses the OSC tab and the OSC Mappings overlay. A forum reply puts the default ports at 7000 and 7001."
+summary: "Daslight 5 learns an OSC message onto a scene, fader, or dial from the OSC Mappings overlay. A forum reply defaults the ports to 7000 and 7001."
 ---
 
 ## What it does
