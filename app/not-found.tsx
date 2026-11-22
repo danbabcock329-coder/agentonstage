@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   robots: { index: false, follow: true },
   alternates: { types: { "application/feed+json": FEED_PATH } },
   openGraph: { type: "website", title, description, siteName: "AgentOnStage" },
-  twitter: { card: "summary", title, description },
+  twitter: { card: "summary_large_image", title, description },
 };
 
 export default function NotFound() {
