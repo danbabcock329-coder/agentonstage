@@ -4,7 +4,7 @@ import { SITE_URL, FEED_PATH, getAll, toCues } from "@/lib/content";
 import Newsletter from "@/components/Newsletter";
 import GoButton from "@/components/GoButton";
 import { Analytics } from "@vercel/analytics/next";
-const description="Sourced AI agent use cases for live events: show control, LED/video, audio, lighting, TouchDesigner and production ops.";
+const description="Sourced AI agent use cases for live events and stage tech, covering show control, LED and video, audio, lighting, TouchDesigner, and production ops.";
 export const viewport: Viewport = { themeColor: "#0b0d12" };
 export const metadata: Metadata = { metadataBase:new URL(SITE_URL), title:{default:"AgentOnStage: AI agent use cases for live events",template:"%s | AgentOnStage"}, description,
   alternates:{types:{"application/feed+json":FEED_PATH}},

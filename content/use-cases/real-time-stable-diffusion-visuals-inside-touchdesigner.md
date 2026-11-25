@@ -6,7 +6,7 @@ tools: ["TouchDesigner", "StreamDiffusion", "NVIDIA GPU"]
 difficulty: Advanced
 source_url: https://github.com/olegchomp/TouchDiffusion
 labels: ["Experimental"]
-summary: "TouchDiffusion brings StreamDiffusion into TD for interactive, low-latency generated imagery driven by live inputs."
+summary: "TouchDiffusion brings StreamDiffusion into TouchDesigner. The README's manual route names TouchDesigner 2023, Python 3.11, and CUDA Toolkit 11.8."
 ---
 
 ## What it does

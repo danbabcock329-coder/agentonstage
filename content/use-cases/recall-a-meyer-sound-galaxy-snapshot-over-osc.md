@@ -6,7 +6,7 @@ tools: ["Meyer Sound GALAXY", "OSC", "ASCII"]
 difficulty: Intermediate
 source_url: https://docs.meyersound.com/products/en/programming-guide---galileo-galaxy.html
 labels: ["Commercial product"]
-summary: "A physical GALAXY listens for OSC on port 25004 and ASCII on port 25003, and :recall_snapshot 3 recalls snapshot 3."
+summary: "A physical GALAXY listens for OSC on port 25004 and ASCII on port 25003. :recall_snapshot 3 recalls snapshot 3; the OSC form is /recall_snapshot,i 3."
 ---
 
 ## What it does
