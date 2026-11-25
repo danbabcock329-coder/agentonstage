@@ -5,7 +5,7 @@ category: "TouchDesigner"
 tools: ["TouchDesigner", "ComfyUI"]
 difficulty: Intermediate
 source_url: https://github.com/olegchomp/TDComfyUI
-summary: "A TD interface to ComfyUI so you can trigger node-based image generation from your show file and pull results back."
+summary: "TDComfyUI loads a ComfyUI Save (API Format) workflow into TouchDesigner. Press Generate to send the frame and pull the result back into the project."
 ---
 
 ## What it does

@@ -5,7 +5,7 @@ category: "LED/Video"
 tools: ["Dataton WATCHOUT", "HTTP", "REST"]
 difficulty: Intermediate
 source_url: https://docs.dataton.com/guide/watchout/external-control/http-rest-api.html
-summary: "WATCHOUT 7's REST API on port 3019 plays, pauses, and jumps timelines, and sets inputs. No authentication by default."
+summary: "WATCHOUT 7's REST API on port 3019 plays, pauses, and jumps timelines. POST /v0/play/{timeline_id} starts one. No authentication by default."
 ---
 
 ## What it does

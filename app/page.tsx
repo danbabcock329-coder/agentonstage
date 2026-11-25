@@ -3,7 +3,7 @@ import GoButton from "@/components/GoButton";
 import UseCaseCard from "@/components/UseCaseCard";
 import { getAll, getTested, CATEGORY_HUBS, cardFields, toCues, newestEntries, FEED_PATH, SITE_URL } from "@/lib/content";
 const title="AgentOnStage: AI agent use cases for live events";
-const description="Sourced AI agent use cases for live events: show control, LED/video, audio, lighting, TouchDesigner and production ops.";
+const description="Sourced AI agent use cases for live events and stage tech, covering show control, LED and video, audio, lighting, TouchDesigner, and production ops.";
 export const metadata={title:{absolute:title},description,alternates:{canonical:"/",types:{"application/feed+json":FEED_PATH}},openGraph:{type:"website",siteName:"AgentOnStage",url:"/",title,description},twitter:{card:"summary_large_image",title,description}};
 export default function Home(){
   const all=getAll();
