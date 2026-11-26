@@ -9,10 +9,10 @@ export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://agentonstag
 export const FEED_PATH = "/feed.json";
 
 export const CATEGORY_HUBS = [
-  { slug: "show-control", name: "Show Control", intro: "Cue stacks, playback, and the protocols that fire them. Entries name the OSC, MSC, MIDI, or HTTP command the source documents." },
-  { slug: "led-video", name: "LED/Video", intro: "Switchers, media servers, processors, and routing for LED walls and video. Entries record the port and the command that takes or plays." },
-  { slug: "audio", name: "Audio", intro: "Consoles, processors, and spatial systems. Entries record the OSC, MIDI, or vendor protocol used to recall a scene or move a fader." },
-  { slug: "lighting", name: "Lighting", intro: "Desks, DMX interfaces, and the assistants that read or fire them. Entries record the command path, from OSC and Art-Net to the vendor API." },
+  { slug: "show-control", name: "Show Control", intro: "Cue stacks, playback, and the protocols that fire them. Entries name the OSC, MSC, MIDI, or HTTP command and the port that the source documents." },
+  { slug: "led-video", name: "LED/Video", intro: "Switchers, media servers, processors, and routing for LED walls and video. Entries record the port and the command that takes, plays, or routes." },
+  { slug: "audio", name: "Audio", intro: "Consoles, processors, and spatial systems. Entries record the OSC, MIDI, or vendor protocol and the port used to recall a scene or move a fader." },
+  { slug: "lighting", name: "Lighting", intro: "Desks, DMX interfaces, and the assistants that read or fire them. Entries record the command path, from OSC and Art-Net through the vendor API." },
   { slug: "touchdesigner", name: "TouchDesigner", intro: "Networks, operators, and the MCP or OSC bridges that let an assistant edit or drive a TouchDesigner project. Entries name the port the source documents." },
   { slug: "production-ops", name: "Production Ops", intro: "Schedules, paperwork, captions, and the crew tools around the show, separate from the desks and servers. Entries name the command the source documents." },
 ] as const;
