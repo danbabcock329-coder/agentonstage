@@ -4,7 +4,7 @@ import { FEED_PATH, getAll } from "@/lib/content";
 import { rigCards, rigSlots } from "@/lib/rig";
 
 const title="Build a stack";
-const description="Pick a lighting desk, video switcher, and audio console and see the AgentOnStage use cases that match, with protocol notes.";
+const description="Pick a lighting desk, a video switcher, and an audio console and see the AgentOnStage use cases that match, with the protocol note from each entry.";
 export const metadata: Metadata={title,description,alternates:{canonical:"/rig",types:{"application/feed+json":FEED_PATH}},openGraph:{type:"website",siteName:"AgentOnStage",url:"/rig",title,description},twitter:{card:"summary_large_image",title,description}};
 
 export default function RigPage(){
