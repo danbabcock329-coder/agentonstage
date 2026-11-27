@@ -5,7 +5,7 @@ category: "Audio"
 tools: ["Ableton Live", "MCP"]
 difficulty: Beginner
 source_url: https://github.com/ahujasid/ableton-mcp
-summary: "Popular MCP bridge that lets an assistant create tracks and arrange clips, handy for prepping show playback sessions."
+summary: "The ableton-mcp server, started with uvx, creates tracks and clips in Live after its Remote Script is selected. Run only one instance at a time."
 ---
 
 ## What it does

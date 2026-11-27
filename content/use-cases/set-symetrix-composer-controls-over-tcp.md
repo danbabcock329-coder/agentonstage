@@ -6,7 +6,7 @@ tools: ["Symetrix Composer", "TCP", "UDP"]
 difficulty: Intermediate
 source_url: https://composer-docs.symetrix.co/control/reference-topics/control-protocol/CP_Control_Commands.html
 labels: ["Commercial product"]
-summary: "Symetrix Edge and Radius take CS on TCP or UDP port 48631. CS 1 754 sets control 1 and returns ACK. GS 1 reads it back."
+summary: "Symetrix Edge and Radius take CS on TCP or UDP 48631. CS sets a control and returns ACK. A seventh TCP session closes the least recently used."
 ---
 
 ## What it does
