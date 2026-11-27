@@ -5,7 +5,7 @@ category: "Show Control"
 tools: ["QLab 5", "Google Sheets", "AppleScript"]
 difficulty: Intermediate
 source_url: https://www.taylorglad.com/post/qlab-5-batch-cue-generator-tsv-csv
-summary: "Taylor Glad's script reads a TSV or CSV export from a Google Sheet template and creates 17 kinds of QLab cues in one pass."
+summary: "Taylor Glad's version 3 Google Sheet exports TSV or CSV. The script creates 17 kinds of QLab 5 cues in one pass. The post says CSV can break on commas."
 ---
 
 ## What it does

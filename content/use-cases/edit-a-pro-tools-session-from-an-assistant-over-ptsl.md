@@ -5,7 +5,7 @@ category: "Audio"
 tools: ["Avid Pro Tools", "PTSL", "MCP"]
 difficulty: Intermediate
 source_url: https://github.com/BlueElevatorProductions/protools-mcp
-summary: "A local MCP server edits a live Pro Tools session over PTSL on macOS port 31416. Write tools confirm before they run."
+summary: "A local MCP server edits a live Pro Tools session over PTSL on macOS port 31416. Write tools confirm first, and the export tool writes an AAF."
 ---
 
 ## What it does

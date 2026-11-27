@@ -5,7 +5,7 @@ category: "TouchDesigner"
 tools: ["TouchDesigner", "MCP", "Claude/Cursor/Codex"]
 difficulty: Beginner
 source_url: https://github.com/Pantani/tdmcp
-summary: "Type a description of the look you want and tdmcp has the assistant assemble a working node network you can perform with."
+summary: "tdmcp, the npm package @dpantani/tdmcp, has an assistant build a playable TouchDesigner network from a plain-language description of the look."
 ---
 
 ## What it does

@@ -5,7 +5,7 @@ category: "Production Ops"
 tools: ["Riedel Artist", "RRCS", "Bitfocus Companion"]
 difficulty: Advanced
 source_url: https://bitfocus.io/connections/riedel-rrcs
-summary: "Companion's Riedel RRCS module v1.1.0 routes an Artist matrix through RRCS. The page says it was tested with RRCS 8.6.1."
+summary: "Companion's Riedel RRCS module v1.1.0 routes an Artist matrix through RRCS. It was tested with RRCS 8.6.1. Crosspoint set is one listed action."
 ---
 
 ## What it does

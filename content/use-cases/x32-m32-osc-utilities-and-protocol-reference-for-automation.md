@@ -5,7 +5,7 @@ category: "Audio"
 tools: ["Behringer X32", "Midas M32", "OSC"]
 difficulty: Advanced
 source_url: https://github.com/pmaillot/X32-Behringer
-summary: "Patrick Maillot's long-running collection of X32 tools and protocol notes, the foundation many agent integrations build on."
+summary: "Patrick Maillot's X32 collection includes X32_Command, a command-line tool that sends and reads X32 OSC, plus the protocol notes agents use."
 ---
 
 ## What it does

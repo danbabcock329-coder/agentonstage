@@ -5,7 +5,7 @@ category: "TouchDesigner"
 tools: ["TouchDesigner", "Depth Anything", "TensorRT"]
 difficulty: Advanced
 source_url: https://github.com/olegchomp/TDDepthAnything
-summary: "Monocular depth estimation accelerated by TensorRT, turning a regular camera into a depth source for effects and masking."
+summary: "TDDepthAnything builds a TensorRT depth map from a camera TOP. The setup notes name TouchDesigner 2023.11340, Python 3.11, and CUDA Toolkit 11.8."
 ---
 
 ## What it does

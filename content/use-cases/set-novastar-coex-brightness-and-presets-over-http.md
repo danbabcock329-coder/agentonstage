@@ -6,7 +6,7 @@ tools: ["NovaStar COEX", "HTTP"]
 difficulty: Intermediate
 source_url: https://api.coex.novastar.tech/en/doc-7530630
 labels: ["Commercial product"]
-summary: "NovaStar's COEX HTTP reference reads screen and canvas IDs, then sets brightness, blackout or freeze, and applies a preset."
+summary: "NovaStar's COEX HTTP reference reads screen and canvas IDs, then sets brightness from 0 to 1, blackout or freeze, and applies a preset. Code 0 is success."
 ---
 
 ## What it does
